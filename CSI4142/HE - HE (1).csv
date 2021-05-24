@@ -1,0 +1,676 @@
+event_key,event_name,start_date,end_date,event_location,event_type,event_location-size
+646,Aboriginal Day,21/06/2017,21/06/2017,Domestic,holiday,
+647,Boxing Day,26/12/2017,26/12/2017,Domestic,holiday,
+648,BUILDEX Vancouver,12/02/2017,13/02/2017,Vancouver,event,675218
+649,Canada Day,01/07/2017,01/07/2017,Domestic,holiday,
+650,Canada Day Celebrations,01/07/2017,01/07/2017,Vancouver,event,675218
+651,Christmas Day,25/12/2017,25/12/2017,Domestic,holiday,
+652,Civic Holiday,03/08/2017,03/08/2017,Domestic,holiday,
+653,Easter Monday,13/04/2017,13/04/2017,Domestic,holiday,
+654,Family Day,17/02/2017,17/02/2017,Domestic,holiday,
+655,Father's Day,21/06/2017,21/06/2017,Domestic,holiday,
+656,Good Friday,10/04/2017,10/04/2017,Domestic,holiday,
+657,Heritage Day,17/02/2017,17/02/2017,Domestic,holiday,
+658,Islander Day,17/02/2017,17/02/2017,Domestic,holiday,
+659,Labour Day,07/09/2017,07/09/2017,Domestic,holiday,
+660,Leap Day,29/02/2017,29/02/2017,Domestic,holiday,
+661,Louis Riel Day,17/02/2017,17/02/2017,Domestic,holiday,
+662,Mother's Day,10/05/2017,10/05/2017,Domestic,holiday,
+663,New Year's Day,01/01/2017,01/01/2017,Domestic,holiday,
+664,New Year's Eve,31/12/2017,31/12/2017,Vancouver,holiday,675218
+665,Remembrance Day,11/11/2017,11/11/2017,Domestic,holiday,
+666,Remembrance Day Parade and Service,11/11/2017,11/11/2017,Vancouver,event,675218
+667,Sidelaunch Days,10/08/2017,11/08/2017,Domestic,holiday,
+668,St. Jean Baptiste Day,24/06/2017,24/06/2017,Domestic,holiday,
+669,St. Patrick's Day,17/03/2017,17/03/2017,Domestic,holiday,
+670,Thanksgiving,12/10/2017,12/10/2017,Domestic,holiday,
+671,Valentine's Day,14/02/2017,14/02/2017,Domestic,holiday,
+672,Vancouver Fashion Week,30/03/2017,05/04/2017,Vancouver,event,675218
+673,Vancouver Gem & Mineral Show,09/08/2017,09/08/2017,Vancouver,event,675218
+674,Vancouver Gift Expo,15/03/2017,17/03/2017,Vancouver,event,675218
+675,Vancouver International Travel Expo,19/09/2017,19/09/2017,Vancouver,event,675218
+676,Victoria Day,18/05/2017,18/05/2017,Domestic,holiday,
+677,BMO Vancouver Marathon,03/05/2017,03/05/2017,Vancouver,event,675218
+678,Honda Celebration of Light,25/07/2017,25/07/2017,Vancouver,event,675218
+679,Vancouver Cherry Blossom Festival,04/04/2017,28/04/2017,Vancouver,event,675218
+680,Dine Out Vancouver Festival,17/01/2017,02/02/2017,Vancouver,event,675218
+681,HSBC Canada Sevens,07/03/2017,08/03/2017,Vancouver,event,675218
+682,International Jazz Festival,21/06/2017,01/07/2017,Vancouver,event,675218
+683,PuSh International Performing Arts Festival,21/01/2017,09/02/2017,Vancouver,event,675218
+684,TED Conference,20/04/2017,24/04/2017,Vancouver,event,675218
+685,Vancouver Craft Beer Week,29/05/2017,07/06/2017,Vancouver,event,675218
+686,Vancouver Folk Music Festival,17/07/2017,19/07/2017,Vancouver,event,675218
+687,Vancouver International Film Festival (VIFF),24/09/2017,09/10/2017,Vancouver,event,675218
+688,Vancouver International Wine Festival,22/02/2017,01/03/2017,Vancouver,event,675218
+689,Vancouver Opera Festival,22/02/2017,01/05/2017,Vancouver,event,675218
+690,Vancouver Pride Festival,02/08/2017,02/08/2017,Vancouver,event,675218
+691,Aboriginal Day,21/06/2016,21/06/2016,Domestic,holiday,
+692,Boxing Day,26/12/2016,26/12/2016,Domestic,holiday,
+693,BUILDEX Vancouver,12/02/2016,13/02/2016,Vancouver,event,631490
+694,Canada Day,01/07/2016,01/07/2016,Domestic,holiday,
+695,Canada Day Celebrations,01/07/2016,01/07/2016,Vancouver,event,631490
+696,Christmas Day,25/12/2016,25/12/2016,Domestic,holiday,
+697,Civic Holiday,03/08/2016,03/08/2016,Domestic,holiday,
+698,Easter Monday,13/04/2016,13/04/2016,Domestic,holiday,
+699,Family Day,17/02/2016,17/02/2016,Domestic,holiday,
+700,Father's Day,21/06/2016,21/06/2016,Domestic,holiday,
+701,Good Friday,10/04/2016,10/04/2016,Domestic,holiday,
+702,Heritage Day,17/02/2016,17/02/2016,Domestic,holiday,
+703,Islander Day,17/02/2016,17/02/2016,Domestic,holiday,
+704,Labour Day,07/09/2016,07/09/2016,Domestic,holiday,
+705,Leap Day,29/02/2016,29/02/2016,Domestic,holiday,
+706,Louis Riel Day,17/02/2016,17/02/2016,Domestic,holiday,
+707,Mother's Day,10/05/2016,10/05/2016,Domestic,holiday,
+708,New Year's Day,01/01/2016,01/01/2016,Domestic,holiday,
+709,New Year's Eve,31/12/2016,31/12/2016,Vancouver,holiday,631490
+710,Remembrance Day,11/11/2016,11/11/2016,Domestic,holiday,
+711,Remembrance Day Parade and Service,11/11/2016,11/11/2016,Vancouver,event,631490
+712,Sidelaunch Days,10/08/2016,11/08/2016,Domestic,holiday,
+713,St. Jean Baptiste Day,24/06/2016,24/06/2016,Domestic,holiday,
+714,St. Patrick's Day,17/03/2016,17/03/2016,Domestic,holiday,
+715,Thanksgiving,12/10/2016,12/10/2016,Domestic,holiday,
+716,Valentine's Day,14/02/2016,14/02/2016,Domestic,holiday,
+717,Vancouver Fashion Week,30/03/2016,05/04/2016,Vancouver,event,631490
+718,Vancouver Gem & Mineral Show,09/08/2016,09/08/2016,Vancouver,event,631490
+719,Vancouver Gift Expo,15/03/2016,17/03/2016,Vancouver,event,631490
+720,Vancouver International Travel Expo,19/09/2016,19/09/2016,Vancouver,event,631490
+721,Victoria Day,18/05/2016,18/05/2016,Domestic,holiday,
+722,BMO Vancouver Marathon,03/05/2016,03/05/2016,Vancouver,event,631490
+723,Honda Celebration of Light,25/07/2016,25/07/2016,Vancouver,event,631490
+724,Vancouver Cherry Blossom Festival,04/04/2016,28/04/2016,Vancouver,event,631490
+725,Dine Out Vancouver Festival,17/01/2016,02/02/2016,Vancouver,event,631490
+726,HSBC Canada Sevens,07/03/2016,08/03/2016,Vancouver,event,631490
+727,International Jazz Festival,21/06/2016,01/07/2016,Vancouver,event,631490
+728,PuSh International Performing Arts Festival,21/01/2016,09/02/2016,Vancouver,event,631490
+729,TED Conference,20/04/2016,24/04/2016,Vancouver,event,631490
+730,Vancouver Craft Beer Week,29/05/2016,07/06/2016,Vancouver,event,631490
+731,Vancouver Folk Music Festival,17/07/2016,19/07/2016,Vancouver,event,631490
+732,Vancouver International Film Festival (VIFF),24/09/2016,09/10/2016,Vancouver,event,631490
+733,Vancouver International Wine Festival,22/02/2016,01/03/2016,Vancouver,event,631490
+734,Vancouver Opera Festival,22/02/2016,01/05/2016,Vancouver,event,631490
+735,Vancouver Pride Festival,02/08/2016,02/08/2016,Vancouver,event,631490
+736,Aboriginal Day,21/06/2015,21/06/2015,Domestic,holiday,
+737,Boxing Day,26/12/2015,26/12/2015,Domestic,holiday,
+738,BUILDEX Vancouver,12/02/2015,13/02/2015,Vancouver,event,647540
+739,Canada Day,01/07/2015,01/07/2015,Domestic,holiday,
+740,Canada Day Celebrations,01/07/2015,01/07/2015,Vancouver,event,647540
+741,Christmas Day,25/12/2015,25/12/2015,Domestic,holiday,
+742,Civic Holiday,03/08/2015,03/08/2015,Domestic,holiday,
+743,Easter Monday,13/04/2015,13/04/2015,Domestic,holiday,
+744,Family Day,17/02/2015,17/02/2015,Domestic,holiday,
+745,Father's Day,21/06/2015,21/06/2015,Domestic,holiday,
+746,Good Friday,10/04/2015,10/04/2015,Domestic,holiday,
+747,Heritage Day,17/02/2015,17/02/2015,Domestic,holiday,
+748,Islander Day,17/02/2015,17/02/2015,Domestic,holiday,
+749,Labour Day,07/09/2015,07/09/2015,Domestic,holiday,
+750,Leap Day,29/02/2015,29/02/2015,Domestic,holiday,
+751,Louis Riel Day,17/02/2015,17/02/2015,Domestic,holiday,
+752,Mother's Day,10/05/2015,10/05/2015,Domestic,holiday,
+753,New Year's Day,01/01/2015,01/01/2015,Domestic,holiday,
+754,New Year's Eve,31/12/2015,31/12/2015,Vancouver,holiday,647540
+755,Remembrance Day,11/11/2015,11/11/2015,Domestic,holiday,
+756,Remembrance Day Parade and Service,11/11/2015,11/11/2015,Vancouver,event,647540
+757,Sidelaunch Days,10/08/2015,11/08/2015,Domestic,holiday,
+758,St. Jean Baptiste Day,24/06/2015,24/06/2015,Domestic,holiday,
+759,St. Patrick's Day,17/03/2015,17/03/2015,Domestic,holiday,
+760,Thanksgiving,12/10/2015,12/10/2015,Domestic,holiday,
+761,Valentine's Day,14/02/2015,14/02/2015,Domestic,holiday,
+762,Vancouver Fashion Week,30/03/2015,05/04/2015,Vancouver,event,647540
+763,Vancouver Gem & Mineral Show,09/08/2015,09/08/2015,Vancouver,event,647540
+764,Vancouver Gift Expo,15/03/2015,17/03/2015,Vancouver,event,647540
+765,Vancouver International Travel Expo,19/09/2015,19/09/2015,Vancouver,event,647540
+766,Victoria Day,18/05/2015,18/05/2015,Domestic,holiday,
+767,BMO Vancouver Marathon,03/05/2015,03/05/2015,Vancouver,event,647540
+768,Honda Celebration of Light,25/07/2015,25/07/2015,Vancouver,event,647540
+769,Vancouver Cherry Blossom Festival,04/04/2015,28/04/2015,Vancouver,event,647540
+770,Dine Out Vancouver Festival,17/01/2015,02/02/2015,Vancouver,event,647540
+771,HSBC Canada Sevens,07/03/2015,08/03/2015,Vancouver,event,647540
+772,International Jazz Festival,21/06/2015,01/07/2015,Vancouver,event,647540
+773,PuSh International Performing Arts Festival,21/01/2015,09/02/2015,Vancouver,event,647540
+774,TED Conference,20/04/2015,24/04/2015,Vancouver,event,647540
+775,Vancouver Craft Beer Week,29/05/2015,07/06/2015,Vancouver,event,647540
+776,Vancouver Folk Music Festival,17/07/2015,19/07/2015,Vancouver,event,647540
+777,Vancouver International Film Festival (VIFF),24/09/2015,09/10/2015,Vancouver,event,647540
+778,Vancouver International Wine Festival,22/02/2015,01/03/2015,Vancouver,event,647540
+779,Vancouver Opera Festival,22/02/2015,01/05/2015,Vancouver,event,647540
+780,Vancouver Pride Festival,02/08/2015,02/08/2015,Vancouver,event,647540
+781,Aboriginal Day,21/06/2014,21/06/2014,Domestic,holiday,
+782,Boxing Day,26/12/2014,26/12/2014,Domestic,holiday,
+783,BUILDEX Vancouver,12/02/2014,13/02/2014,Vancouver,event,647540
+784,Canada Day,01/07/2014,01/07/2014,Domestic,holiday,
+785,Canada Day Celebrations,01/07/2014,01/07/2014,Vancouver,event,647540
+786,Christmas Day,25/12/2014,25/12/2014,Domestic,holiday,
+787,Civic Holiday,03/08/2014,03/08/2014,Domestic,holiday,
+788,Easter Monday,13/04/2014,13/04/2014,Domestic,holiday,
+789,Family Day,17/02/2014,17/02/2014,Domestic,holiday,
+790,Father's Day,21/06/2014,21/06/2014,Domestic,holiday,
+791,Good Friday,10/04/2014,10/04/2014,Domestic,holiday,
+792,Heritage Day,17/02/2014,17/02/2014,Domestic,holiday,
+793,Islander Day,17/02/2014,17/02/2014,Domestic,holiday,
+794,Labour Day,07/09/2014,07/09/2014,Domestic,holiday,
+795,Leap Day,29/02/2014,29/02/2014,Domestic,holiday,
+796,Louis Riel Day,17/02/2014,17/02/2014,Domestic,holiday,
+797,Mother's Day,10/05/2014,10/05/2014,Domestic,holiday,
+798,New Year's Day,01/01/2014,01/01/2014,Domestic,holiday,
+799,New Year's Eve,31/12/2014,31/12/2014,Vancouver,holiday,647540
+800,Remembrance Day,11/11/2014,11/11/2014,Domestic,holiday,
+801,Remembrance Day Parade and Service,11/11/2014,11/11/2014,Vancouver,event,647540
+802,Sidelaunch Days,10/08/2014,11/08/2014,Domestic,holiday,
+803,St. Jean Baptiste Day,24/06/2014,24/06/2014,Domestic,holiday,
+804,St. Patrick's Day,17/03/2014,17/03/2014,Domestic,holiday,
+805,Thanksgiving,12/10/2014,12/10/2014,Domestic,holiday,
+806,Valentine's Day,14/02/2014,14/02/2014,Domestic,holiday,
+807,Vancouver Fashion Week,30/03/2014,05/04/2014,Vancouver,event,647540
+808,Vancouver Gem & Mineral Show,09/08/2014,09/08/2014,Vancouver,event,647540
+809,Vancouver Gift Expo,15/03/2014,17/03/2014,Vancouver,event,647540
+810,Vancouver International Travel Expo,19/09/2014,19/09/2014,Vancouver,event,647540
+811,Victoria Day,18/05/2014,18/05/2014,Domestic,holiday,
+812,BMO Vancouver Marathon,03/05/2014,03/05/2014,Vancouver,event,647540
+813,Honda Celebration of Light,25/07/2014,25/07/2014,Vancouver,event,647540
+814,Vancouver Cherry Blossom Festival,04/04/2014,28/04/2014,Vancouver,event,647540
+815,Dine Out Vancouver Festival,17/01/2014,02/02/2014,Vancouver,event,647540
+816,HSBC Canada Sevens,07/03/2014,08/03/2014,Vancouver,event,647540
+817,International Jazz Festival,21/06/2014,01/07/2014,Vancouver,event,647540
+818,PuSh International Performing Arts Festival,21/01/2014,09/02/2014,Vancouver,event,647540
+819,TED Conference,20/04/2014,24/04/2014,Vancouver,event,647540
+820,Vancouver Craft Beer Week,29/05/2014,07/06/2014,Vancouver,event,647540
+821,Vancouver Folk Music Festival,17/07/2014,19/07/2014,Vancouver,event,647540
+822,Vancouver International Film Festival (VIFF),24/09/2014,09/10/2014,Vancouver,event,647540
+823,Vancouver International Wine Festival,22/02/2014,01/03/2014,Vancouver,event,647540
+824,Vancouver Opera Festival,22/02/2014,01/05/2014,Vancouver,event,647540
+825,Vancouver Pride Festival,02/08/2014,02/08/2014,Vancouver,event,647540
+826,Aboriginal Day,21/06/2013,21/06/2013,Domestic,holiday,
+827,Boxing Day,26/12/2013,26/12/2013,Domestic,holiday,
+828,BUILDEX Vancouver,12/02/2013,13/02/2013,Vancouver,event,603500
+829,Canada Day,01/07/2013,01/07/2013,Domestic,holiday,
+830,Canada Day Celebrations,01/07/2013,01/07/2013,Vancouver,event,603500
+831,Christmas Day,25/12/2013,25/12/2013,Domestic,holiday,
+832,Civic Holiday,03/08/2013,03/08/2013,Domestic,holiday,
+833,Easter Monday,13/04/2013,13/04/2013,Domestic,holiday,
+834,Family Day,17/02/2013,17/02/2013,Domestic,holiday,
+835,Father's Day,21/06/2013,21/06/2013,Domestic,holiday,
+836,Good Friday,10/04/2013,10/04/2013,Domestic,holiday,
+837,Heritage Day,17/02/2013,17/02/2013,Domestic,holiday,
+838,Islander Day,17/02/2013,17/02/2013,Domestic,holiday,
+839,Labour Day,07/09/2013,07/09/2013,Domestic,holiday,
+840,Leap Day,29/02/2013,29/02/2013,Domestic,holiday,
+841,Louis Riel Day,17/02/2013,17/02/2013,Domestic,holiday,
+842,Mother's Day,10/05/2013,10/05/2013,Domestic,holiday,
+843,New Year's Day,01/01/2013,01/01/2013,Domestic,holiday,
+844,New Year's Eve,31/12/2013,31/12/2013,Vancouver,holiday,603500
+845,Remembrance Day,11/11/2013,11/11/2013,Domestic,holiday,
+846,Remembrance Day Parade and Service,11/11/2013,11/11/2013,Vancouver,event,603500
+847,Sidelaunch Days,10/08/2013,11/08/2013,Domestic,holiday,
+848,St. Jean Baptiste Day,24/06/2013,24/06/2013,Domestic,holiday,
+849,St. Patrick's Day,17/03/2013,17/03/2013,Domestic,holiday,
+850,Thanksgiving,12/10/2013,12/10/2013,Domestic,holiday,
+851,Valentine's Day,14/02/2013,14/02/2013,Domestic,holiday,
+852,Vancouver Fashion Week,30/03/2013,05/04/2013,Vancouver,event,603500
+853,Vancouver Gem & Mineral Show,09/08/2013,09/08/2013,Vancouver,event,603500
+854,Vancouver Gift Expo,15/03/2013,17/03/2013,Vancouver,event,603500
+855,Vancouver International Travel Expo,19/09/2013,19/09/2013,Vancouver,event,603500
+856,Victoria Day,18/05/2013,18/05/2013,Domestic,holiday,
+857,BMO Vancouver Marathon,03/05/2013,03/05/2013,Vancouver,event,603500
+858,Honda Celebration of Light,25/07/2013,25/07/2013,Vancouver,event,603500
+859,Vancouver Cherry Blossom Festival,04/04/2013,28/04/2013,Vancouver,event,603500
+860,Dine Out Vancouver Festival,17/01/2013,02/02/2013,Vancouver,event,603500
+861,HSBC Canada Sevens,07/03/2013,08/03/2013,Vancouver,event,603500
+862,International Jazz Festival,21/06/2013,01/07/2013,Vancouver,event,603500
+863,PuSh International Performing Arts Festival,21/01/2013,09/02/2013,Vancouver,event,603500
+864,TED Conference,20/04/2013,24/04/2013,Vancouver,event,603500
+865,Vancouver Craft Beer Week,29/05/2013,07/06/2013,Vancouver,event,603500
+866,Vancouver Folk Music Festival,17/07/2013,19/07/2013,Vancouver,event,603500
+867,Vancouver International Film Festival (VIFF),24/09/2013,09/10/2013,Vancouver,event,603500
+868,Vancouver International Wine Festival,22/02/2013,01/03/2013,Vancouver,event,603500
+869,Vancouver Opera Festival,22/02/2013,01/05/2013,Vancouver,event,603500
+870,Vancouver Pride Festival,02/08/2013,02/08/2013,Vancouver,event,603500
+871,Aboriginal Day,21/06/2012,21/06/2012,Domestic,holiday,
+872,Boxing Day,26/12/2012,26/12/2012,Domestic,holiday,
+873,BUILDEX Vancouver,12/02/2012,13/02/2012,Vancouver,event,603500
+874,Canada Day,01/07/2012,01/07/2012,Domestic,holiday,
+875,Canada Day Celebrations,01/07/2012,01/07/2012,Vancouver,event,603500
+876,Christmas Day,25/12/2012,25/12/2012,Domestic,holiday,
+877,Civic Holiday,03/08/2012,03/08/2012,Domestic,holiday,
+878,Easter Monday,13/04/2012,13/04/2012,Domestic,holiday,
+879,Family Day,17/02/2012,17/02/2012,Domestic,holiday,
+880,Father's Day,21/06/2012,21/06/2012,Domestic,holiday,
+881,Good Friday,10/04/2012,10/04/2012,Domestic,holiday,
+882,Heritage Day,17/02/2012,17/02/2012,Domestic,holiday,
+883,Islander Day,17/02/2012,17/02/2012,Domestic,holiday,
+884,Labour Day,07/09/2012,07/09/2012,Domestic,holiday,
+885,Leap Day,29/02/2012,29/02/2012,Domestic,holiday,
+886,Louis Riel Day,17/02/2012,17/02/2012,Domestic,holiday,
+887,Mother's Day,10/05/2012,10/05/2012,Domestic,holiday,
+888,New Year's Day,01/01/2012,01/01/2012,Domestic,holiday,
+889,New Year's Eve,31/12/2012,31/12/2012,Vancouver,holiday,603500
+890,Remembrance Day,11/11/2012,11/11/2012,Domestic,holiday,
+891,Remembrance Day Parade and Service,11/11/2012,11/11/2012,Vancouver,event,603500
+892,Sidelaunch Days,10/08/2012,11/08/2012,Domestic,holiday,
+893,St. Jean Baptiste Day,24/06/2012,24/06/2012,Domestic,holiday,
+894,St. Patrick's Day,17/03/2012,17/03/2012,Domestic,holiday,
+895,Thanksgiving,12/10/2012,12/10/2012,Domestic,holiday,
+896,Valentine's Day,14/02/2012,14/02/2012,Domestic,holiday,
+897,Vancouver Fashion Week,30/03/2012,05/04/2012,Vancouver,event,603500
+898,Vancouver Gem & Mineral Show,09/08/2012,09/08/2012,Vancouver,event,603500
+899,Vancouver Gift Expo,15/03/2012,17/03/2012,Vancouver,event,603500
+900,Vancouver International Travel Expo,19/09/2012,19/09/2012,Vancouver,event,603500
+901,Victoria Day,18/05/2012,18/05/2012,Domestic,holiday,
+902,BMO Vancouver Marathon,03/05/2012,03/05/2012,Vancouver,event,603500
+903,Honda Celebration of Light,25/07/2012,25/07/2012,Vancouver,event,603500
+904,Vancouver Cherry Blossom Festival,04/04/2012,28/04/2012,Vancouver,event,603500
+905,Dine Out Vancouver Festival,17/01/2012,02/02/2012,Vancouver,event,603500
+906,HSBC Canada Sevens,07/03/2012,08/03/2012,Vancouver,event,603500
+907,International Jazz Festival,21/06/2012,01/07/2012,Vancouver,event,603500
+908,PuSh International Performing Arts Festival,21/01/2012,09/02/2012,Vancouver,event,603500
+909,TED Conference,20/04/2012,24/04/2012,Vancouver,event,603500
+910,Vancouver Craft Beer Week,29/05/2012,07/06/2012,Vancouver,event,603500
+911,Vancouver Folk Music Festival,17/07/2012,19/07/2012,Vancouver,event,603500
+912,Vancouver International Film Festival (VIFF),24/09/2012,09/10/2012,Vancouver,event,603500
+913,Vancouver International Wine Festival,22/02/2012,01/03/2012,Vancouver,event,603500
+914,Vancouver Opera Festival,22/02/2012,01/05/2012,Vancouver,event,603500
+915,Vancouver Pride Festival,02/08/2012,02/08/2012,Vancouver,event,603500
+916,Aboriginal Day,21/06/2011,21/06/2011,Domestic,holiday,
+917,Boxing Day,26/12/2011,26/12/2011,Domestic,holiday,
+918,BUILDEX Vancouver,12/02/2011,13/02/2011,Vancouver,event,603500
+919,Canada Day,01/07/2011,01/07/2011,Domestic,holiday,
+920,Canada Day Celebrations,01/07/2011,01/07/2011,Vancouver,event,603500
+921,Christmas Day,25/12/2011,25/12/2011,Domestic,holiday,
+922,Civic Holiday,03/08/2011,03/08/2011,Domestic,holiday,
+923,Easter Monday,13/04/2011,13/04/2011,Domestic,holiday,
+924,Family Day,17/02/2011,17/02/2011,Domestic,holiday,
+925,Father's Day,21/06/2011,21/06/2011,Domestic,holiday,
+926,Good Friday,10/04/2011,10/04/2011,Domestic,holiday,
+927,Heritage Day,17/02/2011,17/02/2011,Domestic,holiday,
+928,Islander Day,17/02/2011,17/02/2011,Domestic,holiday,
+929,Labour Day,07/09/2011,07/09/2011,Domestic,holiday,
+930,Leap Day,29/02/2011,29/02/2011,Domestic,holiday,
+931,Louis Riel Day,17/02/2011,17/02/2011,Domestic,holiday,
+932,Mother's Day,10/05/2011,10/05/2011,Domestic,holiday,
+933,New Year's Day,01/01/2011,01/01/2011,Domestic,holiday,
+934,New Year's Eve,31/12/2011,31/12/2011,Vancouver,holiday,603500
+935,Remembrance Day,11/11/2011,11/11/2011,Domestic,holiday,
+936,Remembrance Day Parade and Service,11/11/2011,11/11/2011,Vancouver,event,603500
+937,Sidelaunch Days,10/08/2011,11/08/2011,Domestic,holiday,
+938,St. Jean Baptiste Day,24/06/2011,24/06/2011,Domestic,holiday,
+939,St. Patrick's Day,17/03/2011,17/03/2011,Domestic,holiday,
+940,Thanksgiving,12/10/2011,12/10/2011,Domestic,holiday,
+941,Valentine's Day,14/02/2011,14/02/2011,Domestic,holiday,
+942,Vancouver Fashion Week,30/03/2011,05/04/2011,Vancouver,event,603500
+943,Vancouver Gem & Mineral Show,09/08/2011,09/08/2011,Vancouver,event,603500
+944,Vancouver Gift Expo,15/03/2011,17/03/2011,Vancouver,event,603500
+945,Vancouver International Travel Expo,19/09/2011,19/09/2011,Vancouver,event,603500
+946,Victoria Day,18/05/2011,18/05/2011,Domestic,holiday,
+947,BMO Vancouver Marathon,03/05/2011,03/05/2011,Vancouver,event,603500
+948,Honda Celebration of Light,25/07/2011,25/07/2011,Vancouver,event,603500
+949,Vancouver Cherry Blossom Festival,04/04/2011,28/04/2011,Vancouver,event,603500
+950,Dine Out Vancouver Festival,17/01/2011,02/02/2011,Vancouver,event,603500
+951,HSBC Canada Sevens,07/03/2011,08/03/2011,Vancouver,event,603500
+952,International Jazz Festival,21/06/2011,01/07/2011,Vancouver,event,603500
+953,PuSh International Performing Arts Festival,21/01/2011,09/02/2011,Vancouver,event,603500
+954,TED Conference,20/04/2011,24/04/2011,Vancouver,event,603500
+955,Vancouver Craft Beer Week,29/05/2011,07/06/2011,Vancouver,event,603500
+956,Vancouver Folk Music Festival,17/07/2011,19/07/2011,Vancouver,event,603500
+957,Vancouver International Film Festival (VIFF),24/09/2011,09/10/2011,Vancouver,event,603500
+958,Vancouver International Wine Festival,22/02/2011,01/03/2011,Vancouver,event,603500
+959,Vancouver Opera Festival,22/02/2011,01/05/2011,Vancouver,event,603500
+960,Vancouver Pride Festival,02/08/2011,02/08/2011,Vancouver,event,603500
+961,Aboriginal Day,21/06/2010,21/06/2010,Domestic,holiday,
+962,Boxing Day,26/12/2010,26/12/2010,Domestic,holiday,
+963,BUILDEX Vancouver,12/02/2010,13/02/2010,Vancouver,event,578040
+964,Canada Day,01/07/2010,01/07/2010,Domestic,holiday,
+965,Canada Day Celebrations,01/07/2010,01/07/2010,Vancouver,event,578040
+966,Christmas Day,25/12/2010,25/12/2010,Domestic,holiday,
+967,Civic Holiday,03/08/2010,03/08/2010,Domestic,holiday,
+968,Easter Monday,13/04/2010,13/04/2010,Domestic,holiday,
+969,Family Day,17/02/2010,17/02/2010,Domestic,holiday,
+970,Father's Day,21/06/2010,21/06/2010,Domestic,holiday,
+971,Good Friday,10/04/2010,10/04/2010,Domestic,holiday,
+972,Heritage Day,17/02/2010,17/02/2010,Domestic,holiday,
+973,Islander Day,17/02/2010,17/02/2010,Domestic,holiday,
+974,Labour Day,07/09/2010,07/09/2010,Domestic,holiday,
+975,Leap Day,29/02/2010,29/02/2010,Domestic,holiday,
+976,Louis Riel Day,17/02/2010,17/02/2010,Domestic,holiday,
+977,Mother's Day,10/05/2010,10/05/2010,Domestic,holiday,
+978,New Year's Day,01/01/2010,01/01/2010,Domestic,holiday,
+979,New Year's Eve,31/12/2010,31/12/2010,Vancouver,holiday,578040
+980,Remembrance Day,11/11/2010,11/11/2010,Domestic,holiday,
+981,Remembrance Day Parade and Service,11/11/2010,11/11/2010,Vancouver,event,578040
+982,Sidelaunch Days,10/08/2010,11/08/2010,Domestic,holiday,
+983,St. Jean Baptiste Day,24/06/2010,24/06/2010,Domestic,holiday,
+984,St. Patrick's Day,17/03/2010,17/03/2010,Domestic,holiday,
+985,Thanksgiving,12/10/2010,12/10/2010,Domestic,holiday,
+986,Valentine's Day,14/02/2010,14/02/2010,Domestic,holiday,
+987,Vancouver Fashion Week,30/03/2010,05/04/2010,Vancouver,event,578040
+988,Vancouver Gem & Mineral Show,09/08/2010,09/08/2010,Vancouver,event,578040
+989,Vancouver Gift Expo,15/03/2010,17/03/2010,Vancouver,event,578040
+990,Vancouver International Travel Expo,19/09/2010,19/09/2010,Vancouver,event,578040
+991,Victoria Day,18/05/2010,18/05/2010,Domestic,holiday,
+992,BMO Vancouver Marathon,03/05/2010,03/05/2010,Vancouver,event,578040
+993,Honda Celebration of Light,25/07/2010,25/07/2010,Vancouver,event,578040
+994,Vancouver Cherry Blossom Festival,04/04/2010,28/04/2010,Vancouver,event,578040
+995,Dine Out Vancouver Festival,17/01/2010,02/02/2010,Vancouver,event,578040
+996,HSBC Canada Sevens,07/03/2010,08/03/2010,Vancouver,event,578040
+997,International Jazz Festival,21/06/2010,01/07/2010,Vancouver,event,578040
+998,PuSh International Performing Arts Festival,21/01/2010,09/02/2010,Vancouver,event,578040
+999,TED Conference,20/04/2010,24/04/2010,Vancouver,event,578040
+1000,Vancouver Craft Beer Week,29/05/2010,07/06/2010,Vancouver,event,578040
+1001,Vancouver Folk Music Festival,17/07/2010,19/07/2010,Vancouver,event,578040
+1002,Vancouver International Film Festival (VIFF),24/09/2010,09/10/2010,Vancouver,event,578040
+1003,Vancouver International Wine Festival,22/02/2010,01/03/2010,Vancouver,event,578040
+1004,Vancouver Opera Festival,22/02/2010,01/05/2010,Vancouver,event,578040
+1005,Vancouver Pride Festival,02/08/2010,02/08/2010,Vancouver,event,578040
+1006,Aboriginal Day,21/06/2009,21/06/2009,Domestic,holiday,
+1007,Boxing Day,26/12/2009,26/12/2009,Domestic,holiday,
+1008,BUILDEX Vancouver,12/02/2009,13/02/2009,Vancouver,event,578040
+1009,Canada Day,01/07/2009,01/07/2009,Domestic,holiday,
+1010,Canada Day Celebrations,01/07/2009,01/07/2009,Vancouver,event,578040
+1011,Christmas Day,25/12/2009,25/12/2009,Domestic,holiday,
+1012,Civic Holiday,03/08/2009,03/08/2009,Domestic,holiday,
+1013,Easter Monday,13/04/2009,13/04/2009,Domestic,holiday,
+1014,Family Day,17/02/2009,17/02/2009,Domestic,holiday,
+1015,Father's Day,21/06/2009,21/06/2009,Domestic,holiday,
+1016,Good Friday,10/04/2009,10/04/2009,Domestic,holiday,
+1017,Heritage Day,17/02/2009,17/02/2009,Domestic,holiday,
+1018,Islander Day,17/02/2009,17/02/2009,Domestic,holiday,
+1019,Labour Day,07/09/2009,07/09/2009,Domestic,holiday,
+1020,Leap Day,29/02/2009,29/02/2009,Domestic,holiday,
+1021,Louis Riel Day,17/02/2009,17/02/2009,Domestic,holiday,
+1022,Mother's Day,10/05/2009,10/05/2009,Domestic,holiday,
+1023,New Year's Day,01/01/2009,01/01/2009,Domestic,holiday,
+1024,New Year's Eve,31/12/2009,31/12/2009,Vancouver,holiday,578040
+1025,Remembrance Day,11/11/2009,11/11/2009,Domestic,holiday,
+1026,Remembrance Day Parade and Service,11/11/2009,11/11/2009,Vancouver,event,578040
+1027,Sidelaunch Days,10/08/2009,11/08/2009,Domestic,holiday,
+1028,St. Jean Baptiste Day,24/06/2009,24/06/2009,Domestic,holiday,
+1029,St. Patrick's Day,17/03/2009,17/03/2009,Domestic,holiday,
+1030,Thanksgiving,12/10/2009,12/10/2009,Domestic,holiday,
+1031,Valentine's Day,14/02/2009,14/02/2009,Domestic,holiday,
+1032,Vancouver Fashion Week,30/03/2009,05/04/2009,Vancouver,event,578040
+1033,Vancouver Gem & Mineral Show,09/08/2009,09/08/2009,Vancouver,event,578040
+1034,Vancouver Gift Expo,15/03/2009,17/03/2009,Vancouver,event,578040
+1035,Vancouver International Travel Expo,19/09/2009,19/09/2009,Vancouver,event,578040
+1036,Victoria Day,18/05/2009,18/05/2009,Domestic,holiday,
+1037,BMO Vancouver Marathon,03/05/2009,03/05/2009,Vancouver,event,578040
+1038,Honda Celebration of Light,25/07/2009,25/07/2009,Vancouver,event,578040
+1039,Vancouver Cherry Blossom Festival,04/04/2009,28/04/2009,Vancouver,event,578040
+1040,Dine Out Vancouver Festival,17/01/2009,02/02/2009,Vancouver,event,578040
+1041,HSBC Canada Sevens,07/03/2009,08/03/2009,Vancouver,event,578040
+1042,International Jazz Festival,21/06/2009,01/07/2009,Vancouver,event,578040
+1043,PuSh International Performing Arts Festival,21/01/2009,09/02/2009,Vancouver,event,578040
+1044,TED Conference,20/04/2009,24/04/2009,Vancouver,event,578040
+1045,Vancouver Craft Beer Week,29/05/2009,07/06/2009,Vancouver,event,578040
+1046,Vancouver Folk Music Festival,17/07/2009,19/07/2009,Vancouver,event,578040
+1047,Vancouver International Film Festival (VIFF),24/09/2009,09/10/2009,Vancouver,event,578040
+1048,Vancouver International Wine Festival,22/02/2009,01/03/2009,Vancouver,event,578040
+1049,Vancouver Opera Festival,22/02/2009,01/05/2009,Vancouver,event,578040
+1050,Vancouver Pride Festival,02/08/2009,02/08/2009,Vancouver,event,578040
+1051,Aboriginal Day,21/06/2008,21/06/2008,Domestic,holiday,
+1052,Boxing Day,26/12/2008,26/12/2008,Domestic,holiday,
+1053,BUILDEX Vancouver,12/02/2008,13/02/2008,Vancouver,event,578040
+1054,Canada Day,01/07/2008,01/07/2008,Domestic,holiday,
+1055,Canada Day Celebrations,01/07/2008,01/07/2008,Vancouver,event,578040
+1056,Christmas Day,25/12/2008,25/12/2008,Domestic,holiday,
+1057,Civic Holiday,03/08/2008,03/08/2008,Domestic,holiday,
+1058,Easter Monday,13/04/2008,13/04/2008,Domestic,holiday,
+1059,Family Day,17/02/2008,17/02/2008,Domestic,holiday,
+1060,Father's Day,21/06/2008,21/06/2008,Domestic,holiday,
+1061,Good Friday,10/04/2008,10/04/2008,Domestic,holiday,
+1062,Heritage Day,17/02/2008,17/02/2008,Domestic,holiday,
+1063,Islander Day,17/02/2008,17/02/2008,Domestic,holiday,
+1064,Labour Day,07/09/2008,07/09/2008,Domestic,holiday,
+1065,Leap Day,29/02/2008,29/02/2008,Domestic,holiday,
+1066,Louis Riel Day,17/02/2008,17/02/2008,Domestic,holiday,
+1067,Mother's Day,10/05/2008,10/05/2008,Domestic,holiday,
+1068,New Year's Day,01/01/2008,01/01/2008,Domestic,holiday,
+1069,New Year's Eve,31/12/2008,31/12/2008,Vancouver,holiday,578040
+1070,Remembrance Day,11/11/2008,11/11/2008,Domestic,holiday,
+1071,Remembrance Day Parade and Service,11/11/2008,11/11/2008,Vancouver,event,578040
+1072,Sidelaunch Days,10/08/2008,11/08/2008,Domestic,holiday,
+1073,St. Jean Baptiste Day,24/06/2008,24/06/2008,Domestic,holiday,
+1074,St. Patrick's Day,17/03/2008,17/03/2008,Domestic,holiday,
+1075,Thanksgiving,12/10/2008,12/10/2008,Domestic,holiday,
+1076,Valentine's Day,14/02/2008,14/02/2008,Domestic,holiday,
+1077,Vancouver Fashion Week,30/03/2008,05/04/2008,Vancouver,event,578040
+1078,Vancouver Gem & Mineral Show,09/08/2008,09/08/2008,Vancouver,event,578040
+1079,Vancouver Gift Expo,15/03/2008,17/03/2008,Vancouver,event,578040
+1080,Vancouver International Travel Expo,19/09/2008,19/09/2008,Vancouver,event,578040
+1081,Victoria Day,18/05/2008,18/05/2008,Domestic,holiday,
+1082,BMO Vancouver Marathon,03/05/2008,03/05/2008,Vancouver,event,578040
+1083,Honda Celebration of Light,25/07/2008,25/07/2008,Vancouver,event,578040
+1084,Vancouver Cherry Blossom Festival,04/04/2008,28/04/2008,Vancouver,event,578040
+1085,Dine Out Vancouver Festival,17/01/2008,02/02/2008,Vancouver,event,578040
+1086,HSBC Canada Sevens,07/03/2008,08/03/2008,Vancouver,event,578040
+1087,International Jazz Festival,21/06/2008,01/07/2008,Vancouver,event,578040
+1088,PuSh International Performing Arts Festival,21/01/2008,09/02/2008,Vancouver,event,578040
+1089,TED Conference,20/04/2008,24/04/2008,Vancouver,event,578040
+1090,Vancouver Craft Beer Week,29/05/2008,07/06/2008,Vancouver,event,578040
+1091,Vancouver Folk Music Festival,17/07/2008,19/07/2008,Vancouver,event,578040
+1092,Vancouver International Film Festival (VIFF),24/09/2008,09/10/2008,Vancouver,event,578040
+1093,Vancouver International Wine Festival,22/02/2008,01/03/2008,Vancouver,event,578040
+1094,Vancouver Opera Festival,22/02/2008,01/05/2008,Vancouver,event,578040
+1095,Vancouver Pride Festival,02/08/2008,02/08/2008,Vancouver,event,578040
+1096,Aboriginal Day,21/06/2007,21/06/2007,Domestic,holiday,
+1097,Boxing Day,26/12/2007,26/12/2007,Domestic,holiday,
+1098,BUILDEX Vancouver,12/02/2007,13/02/2007,Vancouver,event,578040
+1099,Canada Day,01/07/2007,01/07/2007,Domestic,holiday,
+1100,Canada Day Celebrations,01/07/2007,01/07/2007,Vancouver,event,578040
+1101,Christmas Day,25/12/2007,25/12/2007,Domestic,holiday,
+1102,Civic Holiday,03/08/2007,03/08/2007,Domestic,holiday,
+1103,Easter Monday,13/04/2007,13/04/2007,Domestic,holiday,
+1104,Family Day,17/02/2007,17/02/2007,Domestic,holiday,
+1105,Father's Day,21/06/2007,21/06/2007,Domestic,holiday,
+1106,Good Friday,10/04/2007,10/04/2007,Domestic,holiday,
+1107,Heritage Day,17/02/2007,17/02/2007,Domestic,holiday,
+1108,Islander Day,17/02/2007,17/02/2007,Domestic,holiday,
+1109,Labour Day,07/09/2007,07/09/2007,Domestic,holiday,
+1110,Leap Day,29/02/2007,29/02/2007,Domestic,holiday,
+1111,Louis Riel Day,17/02/2007,17/02/2007,Domestic,holiday,
+1112,Mother's Day,10/05/2007,10/05/2007,Domestic,holiday,
+1113,New Year's Day,01/01/2007,01/01/2007,Domestic,holiday,
+1114,New Year's Eve,31/12/2007,31/12/2007,Vancouver,holiday,578040
+1115,Remembrance Day,11/11/2007,11/11/2007,Domestic,holiday,
+1116,Remembrance Day Parade and Service,11/11/2007,11/11/2007,Vancouver,event,578040
+1117,Sidelaunch Days,10/08/2007,11/08/2007,Domestic,holiday,
+1118,St. Jean Baptiste Day,24/06/2007,24/06/2007,Domestic,holiday,
+1119,St. Patrick's Day,17/03/2007,17/03/2007,Domestic,holiday,
+1120,Thanksgiving,12/10/2007,12/10/2007,Domestic,holiday,
+1121,Valentine's Day,14/02/2007,14/02/2007,Domestic,holiday,
+1122,Vancouver Fashion Week,30/03/2007,05/04/2007,Vancouver,event,578040
+1123,Vancouver Gem & Mineral Show,09/08/2007,09/08/2007,Vancouver,event,578040
+1124,Vancouver Gift Expo,15/03/2007,17/03/2007,Vancouver,event,578040
+1125,Vancouver International Travel Expo,19/09/2007,19/09/2007,Vancouver,event,578040
+1126,Victoria Day,18/05/2007,18/05/2007,Domestic,holiday,
+1127,BMO Vancouver Marathon,03/05/2007,03/05/2007,Vancouver,event,578040
+1128,Honda Celebration of Light,25/07/2007,25/07/2007,Vancouver,event,578040
+1129,Vancouver Cherry Blossom Festival,04/04/2007,28/04/2007,Vancouver,event,578040
+1130,Dine Out Vancouver Festival,17/01/2007,02/02/2007,Vancouver,event,578040
+1131,HSBC Canada Sevens,07/03/2007,08/03/2007,Vancouver,event,578040
+1132,International Jazz Festival,21/06/2007,01/07/2007,Vancouver,event,578040
+1133,PuSh International Performing Arts Festival,21/01/2007,09/02/2007,Vancouver,event,578040
+1134,TED Conference,20/04/2007,24/04/2007,Vancouver,event,578040
+1135,Vancouver Craft Beer Week,29/05/2007,07/06/2007,Vancouver,event,578040
+1136,Vancouver Folk Music Festival,17/07/2007,19/07/2007,Vancouver,event,578040
+1137,Vancouver International Film Festival (VIFF),24/09/2007,09/10/2007,Vancouver,event,578040
+1138,Vancouver International Wine Festival,22/02/2007,01/03/2007,Vancouver,event,578040
+1139,Vancouver Opera Festival,22/02/2007,01/05/2007,Vancouver,event,578040
+1140,Vancouver Pride Festival,02/08/2007,02/08/2007,Vancouver,event,578040
+1141,Aboriginal Day,21/06/2006,21/06/2006,Domestic,holiday,
+1142,Boxing Day,26/12/2006,26/12/2006,Domestic,holiday,
+1143,BUILDEX Vancouver,12/02/2006,13/02/2006,Vancouver,event,578040
+1144,Canada Day,01/07/2006,01/07/2006,Domestic,holiday,
+1145,Canada Day Celebrations,01/07/2006,01/07/2006,Vancouver,event,578040
+1146,Christmas Day,25/12/2006,25/12/2006,Domestic,holiday,
+1147,Civic Holiday,03/08/2006,03/08/2006,Domestic,holiday,
+1148,Easter Monday,13/04/2006,13/04/2006,Domestic,holiday,
+1149,Family Day,17/02/2006,17/02/2006,Domestic,holiday,
+1150,Father's Day,21/06/2006,21/06/2006,Domestic,holiday,
+1151,Good Friday,10/04/2006,10/04/2006,Domestic,holiday,
+1152,Heritage Day,17/02/2006,17/02/2006,Domestic,holiday,
+1153,Islander Day,17/02/2006,17/02/2006,Domestic,holiday,
+1154,Labour Day,07/09/2006,07/09/2006,Domestic,holiday,
+1155,Leap Day,29/02/2006,29/02/2006,Domestic,holiday,
+1156,Louis Riel Day,17/02/2006,17/02/2006,Domestic,holiday,
+1157,Mother's Day,10/05/2006,10/05/2006,Domestic,holiday,
+1158,New Year's Day,01/01/2006,01/01/2006,Domestic,holiday,
+1159,New Year's Eve,31/12/2006,31/12/2006,Vancouver,holiday,578040
+1160,Remembrance Day,11/11/2006,11/11/2006,Domestic,holiday,
+1161,Remembrance Day Parade and Service,11/11/2006,11/11/2006,Vancouver,event,578040
+1162,Sidelaunch Days,10/08/2006,11/08/2006,Domestic,holiday,
+1163,St. Jean Baptiste Day,24/06/2006,24/06/2006,Domestic,holiday,
+1164,St. Patrick's Day,17/03/2006,17/03/2006,Domestic,holiday,
+1165,Thanksgiving,12/10/2006,12/10/2006,Domestic,holiday,
+1166,Valentine's Day,14/02/2006,14/02/2006,Domestic,holiday,
+1167,Vancouver Fashion Week,30/03/2006,05/04/2006,Vancouver,event,578040
+1168,Vancouver Gem & Mineral Show,09/08/2006,09/08/2006,Vancouver,event,578040
+1169,Vancouver Gift Expo,15/03/2006,17/03/2006,Vancouver,event,578040
+1170,Vancouver International Travel Expo,19/09/2006,19/09/2006,Vancouver,event,578040
+1171,Victoria Day,18/05/2006,18/05/2006,Domestic,holiday,
+1172,BMO Vancouver Marathon,03/05/2006,03/05/2006,Vancouver,event,578040
+1173,Honda Celebration of Light,25/07/2006,25/07/2006,Vancouver,event,578040
+1174,Vancouver Cherry Blossom Festival,04/04/2006,28/04/2006,Vancouver,event,578040
+1175,Dine Out Vancouver Festival,17/01/2006,02/02/2006,Vancouver,event,578040
+1176,HSBC Canada Sevens,07/03/2006,08/03/2006,Vancouver,event,578040
+1177,International Jazz Festival,21/06/2006,01/07/2006,Vancouver,event,578040
+1178,PuSh International Performing Arts Festival,21/01/2006,09/02/2006,Vancouver,event,578040
+1179,TED Conference,20/04/2006,24/04/2006,Vancouver,event,578040
+1180,Vancouver Craft Beer Week,29/05/2006,07/06/2006,Vancouver,event,578040
+1181,Vancouver Folk Music Festival,17/07/2006,19/07/2006,Vancouver,event,578040
+1182,Vancouver International Film Festival (VIFF),24/09/2006,09/10/2006,Vancouver,event,578040
+1183,Vancouver International Wine Festival,22/02/2006,01/03/2006,Vancouver,event,578040
+1184,Vancouver Opera Festival,22/02/2006,01/05/2006,Vancouver,event,578040
+1185,Vancouver Pride Festival,02/08/2006,02/08/2006,Vancouver,event,578040
+1186,Aboriginal Day,21/06/2005,21/06/2005,Domestic,holiday,
+1187,Boxing Day,26/12/2005,26/12/2005,Domestic,holiday,
+1188,BUILDEX Vancouver,12/02/2005,13/02/2005,Vancouver,event,545670
+1189,Canada Day,01/07/2005,01/07/2005,Domestic,holiday,
+1190,Canada Day Celebrations,01/07/2005,01/07/2005,Vancouver,event,545670
+1191,Christmas Day,25/12/2005,25/12/2005,Domestic,holiday,
+1192,Civic Holiday,03/08/2005,03/08/2005,Domestic,holiday,
+1193,Easter Monday,13/04/2005,13/04/2005,Domestic,holiday,
+1194,Family Day,17/02/2005,17/02/2005,Domestic,holiday,
+1195,Father's Day,21/06/2005,21/06/2005,Domestic,holiday,
+1196,Good Friday,10/04/2005,10/04/2005,Domestic,holiday,
+1197,Heritage Day,17/02/2005,17/02/2005,Domestic,holiday,
+1198,Islander Day,17/02/2005,17/02/2005,Domestic,holiday,
+1199,Labour Day,07/09/2005,07/09/2005,Domestic,holiday,
+1200,Leap Day,29/02/2005,29/02/2005,Domestic,holiday,
+1201,Louis Riel Day,17/02/2005,17/02/2005,Domestic,holiday,
+1202,Mother's Day,10/05/2005,10/05/2005,Domestic,holiday,
+1203,New Year's Day,01/01/2005,01/01/2005,Domestic,holiday,
+1204,New Year's Eve,31/12/2005,31/12/2005,Vancouver,holiday,545670
+1205,Remembrance Day,11/11/2005,11/11/2005,Domestic,holiday,
+1206,Remembrance Day Parade and Service,11/11/2005,11/11/2005,Vancouver,event,545670
+1207,Sidelaunch Days,10/08/2005,11/08/2005,Domestic,holiday,
+1208,St. Jean Baptiste Day,24/06/2005,24/06/2005,Domestic,holiday,
+1209,St. Patrick's Day,17/03/2005,17/03/2005,Domestic,holiday,
+1210,Thanksgiving,12/10/2005,12/10/2005,Domestic,holiday,
+1211,Valentine's Day,14/02/2005,14/02/2005,Domestic,holiday,
+1212,Vancouver Fashion Week,30/03/2005,05/04/2005,Vancouver,event,545670
+1213,Vancouver Gem & Mineral Show,09/08/2005,09/08/2005,Vancouver,event,545670
+1214,Vancouver Gift Expo,15/03/2005,17/03/2005,Vancouver,event,545670
+1215,Vancouver International Travel Expo,19/09/2005,19/09/2005,Vancouver,event,545670
+1216,Victoria Day,18/05/2005,18/05/2005,Domestic,holiday,
+1217,BMO Vancouver Marathon,03/05/2005,03/05/2005,Vancouver,event,545670
+1218,Honda Celebration of Light,25/07/2005,25/07/2005,Vancouver,event,545670
+1219,Vancouver Cherry Blossom Festival,04/04/2005,28/04/2005,Vancouver,event,545670
+1220,Dine Out Vancouver Festival,17/01/2005,02/02/2005,Vancouver,event,545670
+1221,HSBC Canada Sevens,07/03/2005,08/03/2005,Vancouver,event,545670
+1222,International Jazz Festival,21/06/2005,01/07/2005,Vancouver,event,545670
+1223,PuSh International Performing Arts Festival,21/01/2005,09/02/2005,Vancouver,event,545670
+1224,TED Conference,20/04/2005,24/04/2005,Vancouver,event,545670
+1225,Vancouver Craft Beer Week,29/05/2005,07/06/2005,Vancouver,event,545670
+1226,Vancouver Folk Music Festival,17/07/2005,19/07/2005,Vancouver,event,545670
+1227,Vancouver International Film Festival (VIFF),24/09/2005,09/10/2005,Vancouver,event,545670
+1228,Vancouver International Wine Festival,22/02/2005,01/03/2005,Vancouver,event,545670
+1229,Vancouver Opera Festival,22/02/2005,01/05/2005,Vancouver,event,545670
+1230,Vancouver Pride Festival,02/08/2005,02/08/2005,Vancouver,event,545670
+1231,Aboriginal Day,21/06/2004,21/06/2004,Domestic,holiday,
+1232,Boxing Day,26/12/2004,26/12/2004,Domestic,holiday,
+1233,BUILDEX Vancouver,12/02/2004,13/02/2004,Vancouver,event,545670
+1234,Canada Day,01/07/2004,01/07/2004,Domestic,holiday,
+1235,Canada Day Celebrations,01/07/2004,01/07/2004,Vancouver,event,545670
+1236,Christmas Day,25/12/2004,25/12/2004,Domestic,holiday,
+1237,Civic Holiday,03/08/2004,03/08/2004,Domestic,holiday,
+1238,Easter Monday,13/04/2004,13/04/2004,Domestic,holiday,
+1239,Family Day,17/02/2004,17/02/2004,Domestic,holiday,
+1240,Father's Day,21/06/2004,21/06/2004,Domestic,holiday,
+1241,Good Friday,10/04/2004,10/04/2004,Domestic,holiday,
+1242,Heritage Day,17/02/2004,17/02/2004,Domestic,holiday,
+1243,Islander Day,17/02/2004,17/02/2004,Domestic,holiday,
+1244,Labour Day,07/09/2004,07/09/2004,Domestic,holiday,
+1245,Leap Day,29/02/2004,29/02/2004,Domestic,holiday,
+1246,Louis Riel Day,17/02/2004,17/02/2004,Domestic,holiday,
+1247,Mother's Day,10/05/2004,10/05/2004,Domestic,holiday,
+1248,New Year's Day,01/01/2004,01/01/2004,Domestic,holiday,
+1249,New Year's Eve,31/12/2004,31/12/2004,Vancouver,holiday,545670
+1250,Remembrance Day,11/11/2004,11/11/2004,Domestic,holiday,
+1251,Remembrance Day Parade and Service,11/11/2004,11/11/2004,Vancouver,event,545670
+1252,Sidelaunch Days,10/08/2004,11/08/2004,Domestic,holiday,
+1253,St. Jean Baptiste Day,24/06/2004,24/06/2004,Domestic,holiday,
+1254,St. Patrick's Day,17/03/2004,17/03/2004,Domestic,holiday,
+1255,Thanksgiving,12/10/2004,12/10/2004,Domestic,holiday,
+1256,Valentine's Day,14/02/2004,14/02/2004,Domestic,holiday,
+1257,Vancouver Fashion Week,30/03/2004,05/04/2004,Vancouver,event,545670
+1258,Vancouver Gem & Mineral Show,09/08/2004,09/08/2004,Vancouver,event,545670
+1259,Vancouver Gift Expo,15/03/2004,17/03/2004,Vancouver,event,545670
+1260,Vancouver International Travel Expo,19/09/2004,19/09/2004,Vancouver,event,545670
+1261,Victoria Day,18/05/2004,18/05/2004,Domestic,holiday,
+1262,BMO Vancouver Marathon,03/05/2004,03/05/2004,Vancouver,event,545670
+1263,Honda Celebration of Light,25/07/2004,25/07/2004,Vancouver,event,545670
+1264,Vancouver Cherry Blossom Festival,04/04/2004,28/04/2004,Vancouver,event,545670
+1265,Dine Out Vancouver Festival,17/01/2004,02/02/2004,Vancouver,event,545670
+1266,HSBC Canada Sevens,07/03/2004,08/03/2004,Vancouver,event,545670
+1267,International Jazz Festival,21/06/2004,01/07/2004,Vancouver,event,545670
+1268,PuSh International Performing Arts Festival,21/01/2004,09/02/2004,Vancouver,event,545670
+1269,TED Conference,20/04/2004,24/04/2004,Vancouver,event,545670
+1270,Vancouver Craft Beer Week,29/05/2004,07/06/2004,Vancouver,event,545670
+1271,Vancouver Folk Music Festival,17/07/2004,19/07/2004,Vancouver,event,545670
+1272,Vancouver International Film Festival (VIFF),24/09/2004,09/10/2004,Vancouver,event,545670
+1273,Vancouver International Wine Festival,22/02/2004,01/03/2004,Vancouver,event,545670
+1274,Vancouver Opera Festival,22/02/2004,01/05/2004,Vancouver,event,545670
+1275,Vancouver Pride Festival,02/08/2004,02/08/2004,Vancouver,event,545670
+1276,Aboriginal Day,21/06/2003,21/06/2003,Domestic,holiday,
+1277,Boxing Day,26/12/2003,26/12/2003,Domestic,holiday,
+1278,BUILDEX Vancouver,12/02/2003,13/02/2003,Vancouver,event,545670
+1279,Canada Day,01/07/2003,01/07/2003,Domestic,holiday,
+1280,Canada Day Celebrations,01/07/2003,01/07/2003,Vancouver,event,545670
+1281,Christmas Day,25/12/2003,25/12/2003,Domestic,holiday,
+1282,Civic Holiday,03/08/2003,03/08/2003,Domestic,holiday,
+1283,Easter Monday,13/04/2003,13/04/2003,Domestic,holiday,
+1284,Family Day,17/02/2003,17/02/2003,Domestic,holiday,
+1285,Father's Day,21/06/2003,21/06/2003,Domestic,holiday,
+1286,Good Friday,10/04/2003,10/04/2003,Domestic,holiday,
+1287,Heritage Day,17/02/2003,17/02/2003,Domestic,holiday,
+1288,Islander Day,17/02/2003,17/02/2003,Domestic,holiday,
+1289,Labour Day,07/09/2003,07/09/2003,Domestic,holiday,
+1290,Leap Day,29/02/2003,29/02/2003,Domestic,holiday,
+1291,Louis Riel Day,17/02/2003,17/02/2003,Domestic,holiday,
+1292,Mother's Day,10/05/2003,10/05/2003,Domestic,holiday,
+1293,New Year's Day,01/01/2003,01/01/2003,Domestic,holiday,
+1294,New Year's Eve,31/12/2003,31/12/2003,Vancouver,holiday,545670
+1295,Remembrance Day,11/11/2003,11/11/2003,Domestic,holiday,
+1296,Remembrance Day Parade and Service,11/11/2003,11/11/2003,Vancouver,event,545670
+1297,Sidelaunch Days,10/08/2003,11/08/2003,Domestic,holiday,
+1298,St. Jean Baptiste Day,24/06/2003,24/06/2003,Domestic,holiday,
+1299,St. Patrick's Day,17/03/2003,17/03/2003,Domestic,holiday,
+1300,Thanksgiving,12/10/2003,12/10/2003,Domestic,holiday,
+1301,Valentine's Day,14/02/2003,14/02/2003,Domestic,holiday,
+1302,Vancouver Fashion Week,30/03/2003,05/04/2003,Vancouver,event,545670
+1303,Vancouver Gem & Mineral Show,09/08/2003,09/08/2003,Vancouver,event,545670
+1304,Vancouver Gift Expo,15/03/2003,17/03/2003,Vancouver,event,545670
+1305,Vancouver International Travel Expo,19/09/2003,19/09/2003,Vancouver,event,545670
+1306,Victoria Day,18/05/2003,18/05/2003,Domestic,holiday,
+1307,BMO Vancouver Marathon,03/05/2003,03/05/2003,Vancouver,event,545670
+1308,Honda Celebration of Light,25/07/2003,25/07/2003,Vancouver,event,545670
+1309,Vancouver Cherry Blossom Festival,04/04/2003,28/04/2003,Vancouver,event,545670
+1310,Dine Out Vancouver Festival,17/01/2003,02/02/2003,Vancouver,event,545670
+1311,HSBC Canada Sevens,07/03/2003,08/03/2003,Vancouver,event,545670
+1312,International Jazz Festival,21/06/2003,01/07/2003,Vancouver,event,545670
+1313,PuSh International Performing Arts Festival,21/01/2003,09/02/2003,Vancouver,event,545670
+1314,TED Conference,20/04/2003,24/04/2003,Vancouver,event,545670
+1315,Vancouver Craft Beer Week,29/05/2003,07/06/2003,Vancouver,event,545670
+1316,Vancouver Folk Music Festival,17/07/2003,19/07/2003,Vancouver,event,545670
+1317,Vancouver International Film Festival (VIFF),24/09/2003,09/10/2003,Vancouver,event,545670
+1318,Vancouver International Wine Festival,22/02/2003,01/03/2003,Vancouver,event,545670
+1319,Vancouver Opera Festival,22/02/2003,01/05/2003,Vancouver,event,545670
+1320,Vancouver Pride Festival,02/08/2003,02/08/2003,Vancouver,event,545670

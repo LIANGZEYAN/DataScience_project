@@ -1,0 +1,736 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20201.20.0219.0753                               -->
+<workbook source-build='2020.1.0 (20201.20.0219.0753)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='dlian052' inline='true' name='federated.1j6hxo50bxiy3x18gwimi0p0hshk' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='web0.eecs.uottawa.ca' name='postgres.136f02d05hy8rd19pm9sw0473v4k'>
+            <connection authentication='username-password' class='postgres' dbname='dlian052' odbc-native-protocol='' one-time-sql='' port='15432' server='web0.eecs.uottawa.ca' sslmode='require' username='dlian052' />
+          </named-connection>
+        </named-connections>
+        <relation join='inner' type='join'>
+          <clause type='join'>
+            <expression op='='>
+              <expression op='[crime_fact].[crime_key]' />
+              <expression op='[crime].[crime_key]' />
+            </expression>
+          </clause>
+          <relation join='inner' type='join'>
+            <clause type='join'>
+              <expression op='='>
+                <expression op='[crime_fact].[location_key]' />
+                <expression op='[Location].[location_key]' />
+              </expression>
+            </clause>
+            <relation connection='postgres.136f02d05hy8rd19pm9sw0473v4k' name='crime_fact' table='[CSI4142].[crime_fact]' type='table' />
+            <relation connection='postgres.136f02d05hy8rd19pm9sw0473v4k' name='Location' table='[CSI4142].[Location]' type='table' />
+          </relation>
+          <relation connection='postgres.136f02d05hy8rd19pm9sw0473v4k' name='crime' table='[CSI4142].[crime]' type='table' />
+        </relation>
+        <cols>
+          <map key='[city]' value='[Location].[city]' />
+          <map key='[crime_category]' value='[crime].[crime_category]' />
+          <map key='[crime_detail]' value='[crime].[crime_detail]' />
+          <map key='[crime_end_time]' value='[crime].[crime_end_time]' />
+          <map key='[crime_key (crime)]' value='[crime].[crime_key]' />
+          <map key='[crime_key]' value='[crime_fact].[crime_key]' />
+          <map key='[crime_rate]' value='[Location].[crime_rate]' />
+          <map key='[crime_report_time]' value='[crime].[crime_report_time]' />
+          <map key='[crime_severity_index]' value='[crime].[crime_severity_index]' />
+          <map key='[crime_start_time]' value='[crime].[crime_start_time]' />
+          <map key='[crime_type]' value='[crime].[crime_type]' />
+          <map key='[crime_year]' value='[Location].[crime_year]' />
+          <map key='[event_key]' value='[crime_fact].[event_key]' />
+          <map key='[fact_key]' value='[crime_fact].[fact_key]' />
+          <map key='[is_fatal]' value='[crime_fact].[is_fatal]' />
+          <map key='[is_nightlight]' value='[crime_fact].[is_nightlight]' />
+          <map key='[is_traffic]' value='[crime_fact].[is_traffic]' />
+          <map key='[latitude]' value='[Location].[latitude]' />
+          <map key='[location_key (Location)]' value='[Location].[location_key]' />
+          <map key='[location_key]' value='[crime_fact].[location_key]' />
+          <map key='[location_name]' value='[Location].[location_name]' />
+          <map key='[longitude]' value='[Location].[longitude]' />
+          <map key='[neighborhood]' value='[Location].[neighborhood]' />
+          <map key='[neighborhoodstats]' value='[Location].[neighborhoodstats]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>fact_key</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[fact_key]</local-name>
+            <parent-name>[crime_fact]</parent-name>
+            <remote-alias>fact_key</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>false</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>location_key</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[location_key]</local-name>
+            <parent-name>[crime_fact]</parent-name>
+            <remote-alias>location_key</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>crime_key</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[crime_key]</local-name>
+            <parent-name>[crime_fact]</parent-name>
+            <remote-alias>crime_key</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>event_key</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[event_key]</local-name>
+            <parent-name>[crime_fact]</parent-name>
+            <remote-alias>event_key</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>is_traffic</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[is_traffic]</local-name>
+            <parent-name>[crime_fact]</parent-name>
+            <remote-alias>is_traffic</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_BIT&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>is_fatal</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[is_fatal]</local-name>
+            <parent-name>[crime_fact]</parent-name>
+            <remote-alias>is_fatal</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_BIT&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>is_nightlight</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[is_nightlight]</local-name>
+            <parent-name>[crime_fact]</parent-name>
+            <remote-alias>is_nightlight</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_BIT&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>location_key</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[location_key (Location)]</local-name>
+            <parent-name>[Location]</parent-name>
+            <remote-alias>location_key</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>false</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>location_name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[location_name]</local-name>
+            <parent-name>[Location]</parent-name>
+            <remote-alias>location_name</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>100</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>longitude</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[longitude]</local-name>
+            <parent-name>[Location]</parent-name>
+            <remote-alias>longitude</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>100</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>latitude</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[latitude]</local-name>
+            <parent-name>[Location]</parent-name>
+            <remote-alias>latitude</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>100</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>neighborhood</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[neighborhood]</local-name>
+            <parent-name>[Location]</parent-name>
+            <remote-alias>neighborhood</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>100</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>neighborhoodstats</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[neighborhoodstats]</local-name>
+            <parent-name>[Location]</parent-name>
+            <remote-alias>neighborhoodstats</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>100</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>city</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[city]</local-name>
+            <parent-name>[Location]</parent-name>
+            <remote-alias>city</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>100</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>crime_rate</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[crime_rate]</local-name>
+            <parent-name>[Location]</parent-name>
+            <remote-alias>crime_rate</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>100</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>crime_year</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[crime_year]</local-name>
+            <parent-name>[Location]</parent-name>
+            <remote-alias>crime_year</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>100</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>crime_key</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[crime_key (crime)]</local-name>
+            <parent-name>[crime]</parent-name>
+            <remote-alias>crime_key</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>false</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>crime_report_time</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[crime_report_time]</local-name>
+            <parent-name>[crime]</parent-name>
+            <remote-alias>crime_report_time</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>100</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>crime_start_time</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[crime_start_time]</local-name>
+            <parent-name>[crime]</parent-name>
+            <remote-alias>crime_start_time</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>100</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>crime_end_time</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[crime_end_time]</local-name>
+            <parent-name>[crime]</parent-name>
+            <remote-alias>crime_end_time</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>100</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>crime_detail</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[crime_detail]</local-name>
+            <parent-name>[crime]</parent-name>
+            <remote-alias>crime_detail</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>100</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>crime_type</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[crime_type]</local-name>
+            <parent-name>[crime]</parent-name>
+            <remote-alias>crime_type</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>100</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>crime_category</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[crime_category]</local-name>
+            <parent-name>[crime]</parent-name>
+            <remote-alias>crime_category</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>100</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>crime_severity_index</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[crime_severity_index]</local-name>
+            <parent-name>[crime]</parent-name>
+            <remote-alias>crime_severity_index</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>100</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <column datatype='integer' name='[crime_key (crime)]' role='dimension' type='ordinal' />
+      <column datatype='integer' name='[crime_key]' role='dimension' type='ordinal' />
+      <column datatype='integer' name='[event_key]' role='dimension' type='ordinal' />
+      <column datatype='integer' name='[fact_key]' role='dimension' type='ordinal' />
+      <column datatype='integer' name='[location_key (Location)]' role='dimension' type='ordinal' />
+      <column datatype='integer' name='[location_key]' role='dimension' type='ordinal' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.719237' measure-ordering='alphabetic' measure-percentage='0.280763' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Canada&quot;' />
+      </semantic-values>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='dlian052' name='federated.1j6hxo50bxiy3x18gwimi0p0hshk' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1j6hxo50bxiy3x18gwimi0p0hshk'>
+            <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+              <calculation class='tableau' formula='1' />
+            </column>
+            <column datatype='string' name='[crime_type]' role='dimension' type='nominal' />
+            <column datatype='string' name='[crime_year]' role='dimension' type='nominal' />
+            <column datatype='string' name='[location_name]' role='dimension' type='nominal' />
+            <column-instance column='[crime_type]' derivation='None' name='[none:crime_type:nk]' pivot='key' type='nominal' />
+            <column-instance column='[crime_year]' derivation='None' name='[none:crime_year:nk]' pivot='key' type='nominal' />
+            <column-instance column='[location_name]' derivation='None' name='[none:location_name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Number of Records]' derivation='Sum' name='[sum:Number of Records:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='mark'>
+            <encoding attr='size-bar' field='[federated.1j6hxo50bxiy3x18gwimi0p0hshk].[sum:Number of Records:qk]' field-type='quantitative' max-size='1' min-size='0.005' type='centersize' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Square' />
+            <encodings>
+              <color column='[federated.1j6hxo50bxiy3x18gwimi0p0hshk].[sum:Number of Records:qk]' />
+              <text column='[federated.1j6hxo50bxiy3x18gwimi0p0hshk].[sum:Number of Records:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='has-stroke' value='false' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-line-first' value='true' />
+                <format attr='mark-labels-line-last' value='true' />
+                <format attr='mark-labels-range-min' value='true' />
+                <format attr='mark-labels-range-max' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+                <format attr='mark-labels-range-scope' value='pane' />
+                <format attr='mark-labels-range-field' value='' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1j6hxo50bxiy3x18gwimi0p0hshk].[none:crime_type:nk]</rows>
+        <cols>([federated.1j6hxo50bxiy3x18gwimi0p0hshk].[none:location_name:nk] / [federated.1j6hxo50bxiy3x18gwimi0p0hshk].[none:crime_year:nk])</cols>
+      </table>
+      <simple-id uuid='{F7E1883B-41C6-48B7-8BE6-8DA658FB06CB}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1j6hxo50bxiy3x18gwimi0p0hshk].[sum:Number of Records:qk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1j6hxo50bxiy3x18gwimi0p0hshk].[none:crime_type:nk]</field>
+            <field>[federated.1j6hxo50bxiy3x18gwimi0p0hshk].[none:crime_year:nk]</field>
+            <field>[federated.1j6hxo50bxiy3x18gwimi0p0hshk].[none:location_name:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{CE983A37-2B09-4C6D-9F30-29171D432B6B}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+      AABJRU5ErkJggg==
+    </thumbnail>
+  </thumbnails>
+</workbook>

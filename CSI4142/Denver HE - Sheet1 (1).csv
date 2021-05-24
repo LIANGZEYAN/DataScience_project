@@ -1,0 +1,646 @@
+﻿event-key,event_name,start_date,end_date,event_location,event_type,event_location_size
+1,New year's Day,01/01/2017,01/01/2017,Domestic,holiday,
+2,Martin Luther King's Day,20/01/2017,20/01/2017,Domestic,holiday,
+3,Presidents' Day,17/02/2017,17/02/2017,Domestic,holiday,
+4,Memorial Day,25/05/2017,25/05/2017,Domestic,holiday,
+5,Independence Day observed,03/07/2017,03/07/2017,Domestic,holiday,
+6,Independence Day,04/07/2017,04/07/2017,Domestic,holiday,
+7,Labor Day,07/09/2017,07/09/2017,Domestic,holiday,
+8,Columbus Day,12/10/2017,12/10/2017,Domestic,holiday,
+9,Veterans Day,11/11/2017,11/11/2017,Domestic,holiday,
+10,Thanksgiving,26/11/2017,26/11/2017,Domestic,holiday,
+11,Christmas Day,25/12/2017,25/12/2017,Domestic,holiday,
+12,Winter Park Express Ski Train,10/01/2017,29/03/2017,Denver,event,705439
+13,Denver Restaurant Week ,21/02/2017,01/03/2017,Denver,event,705439
+14,Denver FamilyFest ,22/02/2017,,Denver,event,705439
+15,St. Patrick?�?s Day Parade,14/03/2017,,Denver,event,705439
+16,Denver March Powwow ,20/03/2017,22/03/2017,Denver,event,705439
+17,Denver Home Show,20/03/2017,22/03/2017,Denver,event,705439
+18,Colorado Rockies Home Opener,03/04/2017,,Denver,event,705439
+19,Monster Energy Supercross,04/04/2017,,Denver,event,705439
+20,Collaboration Fest,04/04/2017,,Denver,event,705439
+21,Rodeo All-Star Weekend,17/04/2017,18/04/2017,Denver,event,705439
+22,Cinco de Mayo Festival,02/05/2017,03/05/2017,Denver,event,705439
+23,Five Points Jazz Festival,16/05/2017,,Denver,event,705439
+24,Colfax Marathon ,16/05/2017,17/05/2017,Denver,event,705439
+25,Denver Day of Rock,23/05/2017,,Denver,event,705439
+26,Denver Chalk Art Festival ,05/06/2017,06/06/2017,Denver,event,705439
+27,Golden Oldies Rugby Festival,08/06/2017,,Denver,event,705439
+28,Denver PrideFest,20/06/2017,21/06/2017,Denver,event,705439
+29,Juneteenth Music Festival,20/06/2017,21/06/2017,Denver,event,705439
+30,Cherry Creek Arts Festival,03/07/2017,05/07/2017,Denver,event,705439
+31,Denver Pop Culture Con,03/07/2017,05/07/2017,Denver,event,705439
+32,Rocky Mountain Regional Gay Rodeo,03/07/2017,05/07/2017,Denver,event,705439
+33,Underground Music Showcase,26/07/2017,28/07/2017,Denver,event,705439
+34,Colorado Dragon Boat Festival ,27/07/2017,28/07/2017,Denver,event,705439
+35,Colorado Classic,27/08/2017,30/08/2017,Denver,event,705439
+36,CRUSH Walls,07/09/2017,13/09/2017,Denver,event,705439
+37,A Taste of Colorado,05/09/2017,07/09/2017,Denver,event,705439
+38,Denver Food + Wine Festival,09/09/2017,13/09/2017,Denver,event,705439
+39,Slow Food Nations,11/09/2017,13/09/2017,Denver,event,705439
+40,Annual Denver Beer Week,18/09/2017,26/09/2017,Denver,event,705439
+41,Great American Beer Festival,24/09/2017,26/09/2017,Denver,event,705439
+42,Denver Arts Week ,06/11/2017,14/11/2017,Denver,event,705439
+43,Mile High Holidays,20/11/2017,31/12/2017,Denver,event,705439
+44,New year's Day,01/01/2016,01/01/2016,Domestic,holiday,
+45,Martin Luther King's Day,20/01/2016,20/01/2016,Domestic,holiday,
+46,Presidents' Day,17/02/2016,17/02/2016,Domestic,holiday,
+47,Memorial Day,25/05/2016,25/05/2016,Domestic,holiday,
+48,Independence Day observed,03/07/2016,03/07/2016,Domestic,holiday,
+49,Independence Day,04/07/2016,04/07/2016,Domestic,holiday,
+50,Labor Day,07/09/2016,07/09/2016,Domestic,holiday,
+51,Columbus Day,12/10/2016,12/10/2016,Domestic,holiday,
+52,Veterans Day,11/11/2016,11/11/2016,Domestic,holiday,
+53,Thanksgiving,26/11/2016,26/11/2016,Domestic,holiday,
+54,Christmas Day,25/12/2016,25/12/2016,Domestic,holiday,
+55,Winter Park Express Ski Train,10/01/2016,29/03/2016,Denver,event,696618
+56,Denver Restaurant Week ,21/02/2016,01/03/2016,Denver,event,696618
+57,Denver FamilyFest ,22/02/2016,,Denver,event,696618
+58,St. Patrick?�?s Day Parade,14/03/2016,,Denver,event,696618
+59,Denver March Powwow ,20/03/2016,22/03/2016,Denver,event,696618
+60,Denver Home Show,20/03/2016,22/03/2016,Denver,event,696618
+61,Colorado Rockies Home Opener,03/04/2016,,Denver,event,696618
+62,Monster Energy Supercross,04/04/2016,,Denver,event,696618
+63,Collaboration Fest,04/04/2016,,Denver,event,696618
+64,Rodeo All-Star Weekend,17/04/2016,18/04/2016,Denver,event,696618
+65,Cinco de Mayo Festival,02/05/2016,03/05/2016,Denver,event,696618
+66,Five Points Jazz Festival,16/05/2016,,Denver,event,696618
+67,Colfax Marathon ,16/05/2016,17/05/2016,Denver,event,696618
+68,Denver Day of Rock,23/05/2016,,Denver,event,696618
+69,Denver Chalk Art Festival ,05/06/2016,06/06/2016,Denver,event,696618
+70,Golden Oldies Rugby Festival,08/06/2016,,Denver,event,696618
+71,Denver PrideFest,20/06/2016,21/06/2016,Denver,event,696618
+72,Juneteenth Music Festival,20/06/2016,21/06/2016,Denver,event,696618
+73,Cherry Creek Arts Festival,03/07/2016,05/07/2016,Denver,event,696618
+74,Denver Pop Culture Con,03/07/2016,05/07/2016,Denver,event,696618
+75,Rocky Mountain Regional Gay Rodeo,03/07/2016,05/07/2016,Denver,event,696618
+76,Underground Music Showcase,26/07/2016,28/07/2016,Denver,event,696618
+77,Colorado Dragon Boat Festival ,27/07/2016,28/07/2016,Denver,event,696618
+78,Colorado Classic,27/08/2016,30/08/2016,Denver,event,696618
+79,CRUSH Walls,07/09/2016,13/09/2016,Denver,event,696618
+80,A Taste of Colorado,05/09/2016,07/09/2016,Denver,event,696618
+81,Denver Food + Wine Festival,09/09/2016,13/09/2016,Denver,event,696618
+82,Slow Food Nations,11/09/2016,13/09/2016,Denver,event,696618
+83,Annual Denver Beer Week,18/09/2016,26/09/2016,Denver,event,696618
+84,Great American Beer Festival,24/09/2016,26/09/2016,Denver,event,696618
+85,Denver Arts Week ,06/11/2016,14/11/2016,Denver,event,696618
+86,Mile High Holidays,20/11/2016,31/12/2016,Denver,event,696618
+87,New year's Day,01/01/2015,01/01/2015,Domestic,holiday,
+88,Martin Luther King's Day,20/01/2015,20/01/2015,Domestic,holiday,
+89,Presidents' Day,17/02/2015,17/02/2015,Domestic,holiday,
+90,Memorial Day,25/05/2015,25/05/2015,Domestic,holiday,
+91,Independence Day observed,03/07/2015,03/07/2015,Domestic,holiday,
+92,Independence Day,04/07/2015,04/07/2015,Domestic,holiday,
+93,Labor Day,07/09/2015,07/09/2015,Domestic,holiday,
+94,Columbus Day,12/10/2015,12/10/2015,Domestic,holiday,
+95,Veterans Day,11/11/2015,11/11/2015,Domestic,holiday,
+96,Thanksgiving,26/11/2015,26/11/2015,Domestic,holiday,
+97,Christmas Day,25/12/2015,25/12/2015,Domestic,holiday,
+98,Winter Park Express Ski Train,10/01/2015,29/03/2015,Denver,event,683665
+99,Denver Restaurant Week ,21/02/2015,01/03/2015,Denver,event,683665
+100,Denver FamilyFest ,22/02/2015,,Denver,event,683665
+101,St. Patrick?�?s Day Parade,14/03/2015,,Denver,event,683665
+102,Denver March Powwow ,20/03/2015,22/03/2015,Denver,event,683665
+103,Denver Home Show,20/03/2015,22/03/2015,Denver,event,683665
+104,Colorado Rockies Home Opener,03/04/2015,,Denver,event,683665
+105,Monster Energy Supercross,04/04/2015,,Denver,event,683665
+106,Collaboration Fest,04/04/2015,,Denver,event,683665
+107,Rodeo All-Star Weekend,17/04/2015,18/04/2015,Denver,event,683665
+108,Cinco de Mayo Festival,02/05/2015,03/05/2015,Denver,event,683665
+109,Five Points Jazz Festival,16/05/2015,,Denver,event,683665
+110,Colfax Marathon ,16/05/2015,17/05/2015,Denver,event,683665
+111,Denver Day of Rock,23/05/2015,,Denver,event,683665
+112,Denver Chalk Art Festival ,05/06/2015,06/06/2015,Denver,event,683665
+113,Golden Oldies Rugby Festival,08/06/2015,,Denver,event,683665
+114,Denver PrideFest,20/06/2015,21/06/2015,Denver,event,683665
+115,Juneteenth Music Festival,20/06/2015,21/06/2015,Denver,event,683665
+116,Cherry Creek Arts Festival,03/07/2015,05/07/2015,Denver,event,683665
+117,Denver Pop Culture Con,03/07/2015,05/07/2015,Denver,event,683665
+118,Rocky Mountain Regional Gay Rodeo,03/07/2015,05/07/2015,Denver,event,683665
+119,Underground Music Showcase,26/07/2015,28/07/2015,Denver,event,683665
+120,Colorado Dragon Boat Festival ,27/07/2015,28/07/2015,Denver,event,683665
+121,Colorado Classic,27/08/2015,30/08/2015,Denver,event,683665
+122,CRUSH Walls,07/09/2015,13/09/2015,Denver,event,683665
+123,A Taste of Colorado,05/09/2015,07/09/2015,Denver,event,683665
+124,Denver Food + Wine Festival,09/09/2015,13/09/2015,Denver,event,683665
+125,Slow Food Nations,11/09/2015,13/09/2015,Denver,event,683665
+126,Annual Denver Beer Week,18/09/2015,26/09/2015,Denver,event,683665
+127,Great American Beer Festival,24/09/2015,26/09/2015,Denver,event,683665
+128,Denver Arts Week ,06/11/2015,14/11/2015,Denver,event,683665
+129,Mile High Holidays,20/11/2015,31/12/2015,Denver,event,683665
+130,New year's Day,01/01/2014,01/01/2014,Domestic,holiday,
+131,Martin Luther King's Day,20/01/2014,20/01/2014,Domestic,holiday,
+132,Presidents' Day,17/02/2014,17/02/2014,Domestic,holiday,
+133,Memorial Day,25/05/2014,25/05/2014,Domestic,holiday,
+134,Independence Day observed,03/07/2014,03/07/2014,Domestic,holiday,
+135,Independence Day,04/07/2014,04/07/2014,Domestic,holiday,
+136,Labor Day,07/09/2014,07/09/2014,Domestic,holiday,
+137,Columbus Day,12/10/2014,12/10/2014,Domestic,holiday,
+138,Veterans Day,11/11/2014,11/11/2014,Domestic,holiday,
+139,Thanksgiving,26/11/2014,26/11/2014,Domestic,holiday,
+140,Christmas Day,25/12/2014,25/12/2014,Domestic,holiday,
+141,Winter Park Express Ski Train,10/01/2014,29/03/2014,Denver,event,664870
+142,Denver Restaurant Week ,21/02/2014,01/03/2014,Denver,event,664870
+143,Denver FamilyFest ,22/02/2014,,Denver,event,664870
+144,St. Patrick?�?s Day Parade,14/03/2014,,Denver,event,664870
+145,Denver March Powwow ,20/03/2014,22/03/2014,Denver,event,664870
+146,Denver Home Show,20/03/2014,22/03/2014,Denver,event,664870
+147,Colorado Rockies Home Opener,03/04/2014,,Denver,event,664870
+148,Monster Energy Supercross,04/04/2014,,Denver,event,664870
+149,Collaboration Fest,04/04/2014,,Denver,event,664870
+150,Rodeo All-Star Weekend,17/04/2014,18/04/2014,Denver,event,664870
+151,Cinco de Mayo Festival,02/05/2014,03/05/2014,Denver,event,664870
+152,Five Points Jazz Festival,16/05/2014,,Denver,event,664870
+153,Colfax Marathon ,16/05/2014,17/05/2014,Denver,event,664870
+154,Denver Day of Rock,23/05/2014,,Denver,event,664870
+155,Denver Chalk Art Festival ,05/06/2014,06/06/2014,Denver,event,664870
+156,Golden Oldies Rugby Festival,08/06/2014,,Denver,event,664870
+157,Denver PrideFest,20/06/2014,21/06/2014,Denver,event,664870
+158,Juneteenth Music Festival,20/06/2014,21/06/2014,Denver,event,664870
+159,Cherry Creek Arts Festival,03/07/2014,05/07/2014,Denver,event,664870
+160,Denver Pop Culture Con,03/07/2014,05/07/2014,Denver,event,664870
+161,Rocky Mountain Regional Gay Rodeo,03/07/2014,05/07/2014,Denver,event,664870
+162,Underground Music Showcase,26/07/2014,28/07/2014,Denver,event,664870
+163,Colorado Dragon Boat Festival ,27/07/2014,28/07/2014,Denver,event,664870
+164,Colorado Classic,27/08/2014,30/08/2014,Denver,event,664870
+165,CRUSH Walls,07/09/2014,13/09/2014,Denver,event,664870
+166,A Taste of Colorado,05/09/2014,07/09/2014,Denver,event,664870
+167,Denver Food + Wine Festival,09/09/2014,13/09/2014,Denver,event,664870
+168,Slow Food Nations,11/09/2014,13/09/2014,Denver,event,664870
+169,Annual Denver Beer Week,18/09/2014,26/09/2014,Denver,event,664870
+170,Great American Beer Festival,24/09/2014,26/09/2014,Denver,event,664870
+171,Denver Arts Week ,06/11/2014,14/11/2014,Denver,event,664870
+172,Mile High Holidays,20/11/2014,31/12/2014,Denver,event,664870
+173,New year's Day,01/01/2013,01/01/2013,Domestic,holiday,
+174,Martin Luther King's Day,20/01/2013,20/01/2013,Domestic,holiday,
+175,Presidents' Day,17/02/2013,17/02/2013,Domestic,holiday,
+176,Memorial Day,25/05/2013,25/05/2013,Domestic,holiday,
+177,Independence Day observed,03/07/2013,03/07/2013,Domestic,holiday,
+178,Independence Day,04/07/2013,04/07/2013,Domestic,holiday,
+179,Labor Day,07/09/2013,07/09/2013,Domestic,holiday,
+180,Columbus Day,12/10/2013,12/10/2013,Domestic,holiday,
+181,Veterans Day,11/11/2013,11/11/2013,Domestic,holiday,
+182,Thanksgiving,26/11/2013,26/11/2013,Domestic,holiday,
+183,Christmas Day,25/12/2013,25/12/2013,Domestic,holiday,
+184,Winter Park Express Ski Train,10/01/2013,29/03/2013,Denver,event,649513
+185,Denver Restaurant Week ,21/02/2013,01/03/2013,Denver,event,649513
+186,Denver FamilyFest ,22/02/2013,,Denver,event,649513
+187,St. Patrick?�?s Day Parade,14/03/2013,,Denver,event,649513
+188,Denver March Powwow ,20/03/2013,22/03/2013,Denver,event,649513
+189,Denver Home Show,20/03/2013,22/03/2013,Denver,event,649513
+190,Colorado Rockies Home Opener,03/04/2013,,Denver,event,649513
+191,Monster Energy Supercross,04/04/2013,,Denver,event,649513
+192,Collaboration Fest,04/04/2013,,Denver,event,649513
+193,Rodeo All-Star Weekend,17/04/2013,18/04/2013,Denver,event,649513
+194,Cinco de Mayo Festival,02/05/2013,03/05/2013,Denver,event,649513
+195,Five Points Jazz Festival,16/05/2013,,Denver,event,649513
+196,Colfax Marathon ,16/05/2013,17/05/2013,Denver,event,649513
+197,Denver Day of Rock,23/05/2013,,Denver,event,649513
+198,Denver Chalk Art Festival ,05/06/2013,06/06/2013,Denver,event,649513
+199,Golden Oldies Rugby Festival,08/06/2013,,Denver,event,649513
+200,Denver PrideFest,20/06/2013,21/06/2013,Denver,event,649513
+201,Juneteenth Music Festival,20/06/2013,21/06/2013,Denver,event,649513
+202,Cherry Creek Arts Festival,03/07/2013,05/07/2013,Denver,event,649513
+203,Denver Pop Culture Con,03/07/2013,05/07/2013,Denver,event,649513
+204,Rocky Mountain Regional Gay Rodeo,03/07/2013,05/07/2013,Denver,event,649513
+205,Underground Music Showcase,26/07/2013,28/07/2013,Denver,event,649513
+206,Colorado Dragon Boat Festival ,27/07/2013,28/07/2013,Denver,event,649513
+207,Colorado Classic,27/08/2013,30/08/2013,Denver,event,649513
+208,CRUSH Walls,07/09/2013,13/09/2013,Denver,event,649513
+209,A Taste of Colorado,05/09/2013,07/09/2013,Denver,event,649513
+210,Denver Food + Wine Festival,09/09/2013,13/09/2013,Denver,event,649513
+211,Slow Food Nations,11/09/2013,13/09/2013,Denver,event,649513
+212,Annual Denver Beer Week,18/09/2013,26/09/2013,Denver,event,649513
+213,Great American Beer Festival,24/09/2013,26/09/2013,Denver,event,649513
+214,Denver Arts Week ,06/11/2013,14/11/2013,Denver,event,649513
+215,Mile High Holidays,20/11/2013,31/12/2013,Denver,event,649513
+216,New year's Day,01/01/2012,01/01/2012,Domestic,holiday,
+217,Martin Luther King's Day,20/01/2012,20/01/2012,Domestic,holiday,
+218,Presidents' Day,17/02/2012,17/02/2012,Domestic,holiday,
+219,Memorial Day,25/05/2012,25/05/2012,Domestic,holiday,
+220,Independence Day observed,03/07/2012,03/07/2012,Domestic,holiday,
+221,Independence Day,04/07/2012,04/07/2012,Domestic,holiday,
+222,Labor Day,07/09/2012,07/09/2012,Domestic,holiday,
+223,Columbus Day,12/10/2012,12/10/2012,Domestic,holiday,
+224,Veterans Day,11/11/2012,11/11/2012,Domestic,holiday,
+225,Thanksgiving,26/11/2012,26/11/2012,Domestic,holiday,
+226,Christmas Day,25/12/2012,25/12/2012,Domestic,holiday,
+227,Winter Park Express Ski Train,10/01/2012,29/03/2012,Denver,event,635277
+228,Denver Restaurant Week ,21/02/2012,01/03/2012,Denver,event,635277
+229,Denver FamilyFest ,22/02/2012,,Denver,event,635277
+230,St. Patrick?�?s Day Parade,14/03/2012,,Denver,event,635277
+231,Denver March Powwow ,20/03/2012,22/03/2012,Denver,event,635277
+232,Denver Home Show,20/03/2012,22/03/2012,Denver,event,635277
+233,Colorado Rockies Home Opener,03/04/2012,,Denver,event,635277
+234,Monster Energy Supercross,04/04/2012,,Denver,event,635277
+235,Collaboration Fest,04/04/2012,,Denver,event,635277
+236,Rodeo All-Star Weekend,17/04/2012,18/04/2012,Denver,event,635277
+237,Cinco de Mayo Festival,02/05/2012,03/05/2012,Denver,event,635277
+238,Five Points Jazz Festival,16/05/2012,,Denver,event,635277
+239,Colfax Marathon ,16/05/2012,17/05/2012,Denver,event,635277
+240,Denver Day of Rock,23/05/2012,,Denver,event,635277
+241,Denver Chalk Art Festival ,05/06/2012,06/06/2012,Denver,event,635277
+242,Golden Oldies Rugby Festival,08/06/2012,,Denver,event,635277
+243,Denver PrideFest,20/06/2012,21/06/2012,Denver,event,635277
+244,Juneteenth Music Festival,20/06/2012,21/06/2012,Denver,event,635277
+245,Cherry Creek Arts Festival,03/07/2012,05/07/2012,Denver,event,635277
+246,Denver Pop Culture Con,03/07/2012,05/07/2012,Denver,event,635277
+247,Rocky Mountain Regional Gay Rodeo,03/07/2012,05/07/2012,Denver,event,635277
+248,Underground Music Showcase,26/07/2012,28/07/2012,Denver,event,635277
+249,Colorado Dragon Boat Festival ,27/07/2012,28/07/2012,Denver,event,635277
+250,Colorado Classic,27/08/2012,30/08/2012,Denver,event,635277
+251,CRUSH Walls,07/09/2012,13/09/2012,Denver,event,635277
+252,A Taste of Colorado,05/09/2012,07/09/2012,Denver,event,635277
+253,Denver Food + Wine Festival,09/09/2012,13/09/2012,Denver,event,635277
+254,Slow Food Nations,11/09/2012,13/09/2012,Denver,event,635277
+255,Annual Denver Beer Week,18/09/2012,26/09/2012,Denver,event,635277
+256,Great American Beer Festival,24/09/2012,26/09/2012,Denver,event,635277
+257,Denver Arts Week ,06/11/2012,14/11/2012,Denver,event,635277
+258,Mile High Holidays,20/11/2012,31/12/2012,Denver,event,635277
+259,New year's Day,01/01/2011,01/01/2011,Domestic,holiday,
+260,Martin Luther King's Day,20/01/2011,20/01/2011,Domestic,holiday,
+261,Presidents' Day,17/02/2011,17/02/2011,Domestic,holiday,
+262,Memorial Day,25/05/2011,25/05/2011,Domestic,holiday,
+263,Independence Day observed,03/07/2011,03/07/2011,Domestic,holiday,
+264,Independence Day,04/07/2011,04/07/2011,Domestic,holiday,
+265,Labor Day,07/09/2011,07/09/2011,Domestic,holiday,
+266,Columbus Day,12/10/2011,12/10/2011,Domestic,holiday,
+267,Veterans Day,11/11/2011,11/11/2011,Domestic,holiday,
+268,Thanksgiving,26/11/2011,26/11/2011,Domestic,holiday,
+269,Christmas Day,25/12/2011,25/12/2011,Domestic,holiday,
+270,Winter Park Express Ski Train,10/01/2011,29/03/2011,Denver,event,620513
+271,Denver Restaurant Week ,21/02/2011,01/03/2011,Denver,event,620513
+272,Denver FamilyFest ,22/02/2011,,Denver,event,620513
+273,St. Patrick?�?s Day Parade,14/03/2011,,Denver,event,620513
+274,Denver March Powwow ,20/03/2011,22/03/2011,Denver,event,620513
+275,Denver Home Show,20/03/2011,22/03/2011,Denver,event,620513
+276,Colorado Rockies Home Opener,03/04/2011,,Denver,event,620513
+277,Monster Energy Supercross,04/04/2011,,Denver,event,620513
+278,Collaboration Fest,04/04/2011,,Denver,event,620513
+279,Rodeo All-Star Weekend,17/04/2011,18/04/2011,Denver,event,620513
+280,Cinco de Mayo Festival,02/05/2011,03/05/2011,Denver,event,620513
+281,Five Points Jazz Festival,16/05/2011,,Denver,event,620513
+282,Colfax Marathon ,16/05/2011,17/05/2011,Denver,event,620513
+283,Denver Day of Rock,23/05/2011,,Denver,event,620513
+284,Denver Chalk Art Festival ,05/06/2011,06/06/2011,Denver,event,620513
+285,Golden Oldies Rugby Festival,08/06/2011,,Denver,event,620513
+286,Denver PrideFest,20/06/2011,21/06/2011,Denver,event,620513
+287,Juneteenth Music Festival,20/06/2011,21/06/2011,Denver,event,620513
+288,Cherry Creek Arts Festival,03/07/2011,05/07/2011,Denver,event,620513
+289,Denver Pop Culture Con,03/07/2011,05/07/2011,Denver,event,620513
+290,Rocky Mountain Regional Gay Rodeo,03/07/2011,05/07/2011,Denver,event,620513
+291,Underground Music Showcase,26/07/2011,28/07/2011,Denver,event,620513
+292,Colorado Dragon Boat Festival ,27/07/2011,28/07/2011,Denver,event,620513
+293,Colorado Classic,27/08/2011,30/08/2011,Denver,event,620513
+294,CRUSH Walls,07/09/2011,13/09/2011,Denver,event,620513
+295,A Taste of Colorado,05/09/2011,07/09/2011,Denver,event,620513
+296,Denver Food + Wine Festival,09/09/2011,13/09/2011,Denver,event,620513
+297,Slow Food Nations,11/09/2011,13/09/2011,Denver,event,620513
+298,Annual Denver Beer Week,18/09/2011,26/09/2011,Denver,event,620513
+299,Great American Beer Festival,24/09/2011,26/09/2011,Denver,event,620513
+300,Denver Arts Week ,06/11/2011,14/11/2011,Denver,event,620513
+301,Mile High Holidays,20/11/2011,31/12/2011,Denver,event,620513
+302,New year's Day,01/01/2010,01/01/2010,Domestic,holiday,
+303,Martin Luther King's Day,20/01/2010,20/01/2010,Domestic,holiday,
+304,Presidents' Day,17/02/2010,17/02/2010,Domestic,holiday,
+305,Memorial Day,25/05/2010,25/05/2010,Domestic,holiday,
+306,Independence Day observed,03/07/2010,03/07/2010,Domestic,holiday,
+307,Independence Day,04/07/2010,04/07/2010,Domestic,holiday,
+308,Labor Day,07/09/2010,07/09/2010,Domestic,holiday,
+309,Columbus Day,12/10/2010,12/10/2010,Domestic,holiday,
+310,Veterans Day,11/11/2010,11/11/2010,Domestic,holiday,
+311,Thanksgiving,26/11/2010,26/11/2010,Domestic,holiday,
+312,Christmas Day,25/12/2010,25/12/2010,Domestic,holiday,
+313,Winter Park Express Ski Train,10/01/2010,29/03/2010,Denver,event,603354
+314,Denver Restaurant Week ,21/02/2010,01/03/2010,Denver,event,603354
+315,Denver FamilyFest ,22/02/2010,,Denver,event,603354
+316,St. Patrick?�?s Day Parade,14/03/2010,,Denver,event,603354
+317,Denver March Powwow ,20/03/2010,22/03/2010,Denver,event,603354
+318,Denver Home Show,20/03/2010,22/03/2010,Denver,event,603354
+319,Colorado Rockies Home Opener,03/04/2010,,Denver,event,603354
+320,Monster Energy Supercross,04/04/2010,,Denver,event,603354
+321,Collaboration Fest,04/04/2010,,Denver,event,603354
+322,Rodeo All-Star Weekend,17/04/2010,18/04/2010,Denver,event,603354
+323,Cinco de Mayo Festival,02/05/2010,03/05/2010,Denver,event,603354
+324,Five Points Jazz Festival,16/05/2010,,Denver,event,603354
+325,Colfax Marathon ,16/05/2010,17/05/2010,Denver,event,603354
+326,Denver Day of Rock,23/05/2010,,Denver,event,603354
+327,Denver Chalk Art Festival ,05/06/2010,06/06/2010,Denver,event,603354
+328,Golden Oldies Rugby Festival,08/06/2010,,Denver,event,603354
+329,Denver PrideFest,20/06/2010,21/06/2010,Denver,event,603354
+330,Juneteenth Music Festival,20/06/2010,21/06/2010,Denver,event,603354
+331,Cherry Creek Arts Festival,03/07/2010,05/07/2010,Denver,event,603354
+332,Denver Pop Culture Con,03/07/2010,05/07/2010,Denver,event,603354
+333,Rocky Mountain Regional Gay Rodeo,03/07/2010,05/07/2010,Denver,event,603354
+334,Underground Music Showcase,26/07/2010,28/07/2010,Denver,event,603354
+335,Colorado Dragon Boat Festival ,27/07/2010,28/07/2010,Denver,event,603354
+336,Colorado Classic,27/08/2010,30/08/2010,Denver,event,603354
+337,CRUSH Walls,07/09/2010,13/09/2010,Denver,event,603354
+338,A Taste of Colorado,05/09/2010,07/09/2010,Denver,event,603354
+339,Denver Food + Wine Festival,09/09/2010,13/09/2010,Denver,event,603354
+340,Slow Food Nations,11/09/2010,13/09/2010,Denver,event,603354
+341,Annual Denver Beer Week,18/09/2010,26/09/2010,Denver,event,603354
+342,Great American Beer Festival,24/09/2010,26/09/2010,Denver,event,603354
+343,Denver Arts Week ,06/11/2010,14/11/2010,Denver,event,603354
+344,Mile High Holidays,20/11/2010,31/12/2010,Denver,event,603354
+345,New year's Day,01/01/2009,01/01/2009,Domestic,holiday,
+346,Martin Luther King's Day,20/01/2009,20/01/2009,Domestic,holiday,
+347,Presidents' Day,17/02/2009,17/02/2009,Domestic,holiday,
+348,Memorial Day,25/05/2009,25/05/2009,Domestic,holiday,
+349,Independence Day observed,03/07/2009,03/07/2009,Domestic,holiday,
+350,Independence Day,04/07/2009,04/07/2009,Domestic,holiday,
+351,Labor Day,07/09/2009,07/09/2009,Domestic,holiday,
+352,Columbus Day,12/10/2009,12/10/2009,Domestic,holiday,
+353,Veterans Day,11/11/2009,11/11/2009,Domestic,holiday,
+354,Thanksgiving,26/11/2009,26/11/2009,Domestic,holiday,
+355,Christmas Day,25/12/2009,25/12/2009,Domestic,holiday,
+356,Winter Park Express Ski Train,10/01/2009,29/03/2009,Denver,event,554636
+357,Denver Restaurant Week ,21/02/2009,01/03/2009,Denver,event,554636
+358,Denver FamilyFest ,22/02/2009,,Denver,event,554636
+359,St. Patrick?�?s Day Parade,14/03/2009,,Denver,event,554636
+360,Denver March Powwow ,20/03/2009,22/03/2009,Denver,event,554636
+361,Denver Home Show,20/03/2009,22/03/2009,Denver,event,554636
+362,Colorado Rockies Home Opener,03/04/2009,,Denver,event,554636
+363,Monster Energy Supercross,04/04/2009,,Denver,event,554636
+364,Collaboration Fest,04/04/2009,,Denver,event,554636
+365,Rodeo All-Star Weekend,17/04/2009,18/04/2009,Denver,event,554636
+366,Cinco de Mayo Festival,02/05/2009,03/05/2009,Denver,event,554636
+367,Five Points Jazz Festival,16/05/2009,,Denver,event,554636
+368,Colfax Marathon ,16/05/2009,17/05/2009,Denver,event,554636
+369,Denver Day of Rock,23/05/2009,,Denver,event,554636
+370,Denver Chalk Art Festival ,05/06/2009,06/06/2009,Denver,event,554636
+371,Golden Oldies Rugby Festival,08/06/2009,,Denver,event,554636
+372,Denver PrideFest,20/06/2009,21/06/2009,Denver,event,554636
+373,Juneteenth Music Festival,20/06/2009,21/06/2009,Denver,event,554636
+374,Cherry Creek Arts Festival,03/07/2009,05/07/2009,Denver,event,554636
+375,Denver Pop Culture Con,03/07/2009,05/07/2009,Denver,event,554636
+376,Rocky Mountain Regional Gay Rodeo,03/07/2009,05/07/2009,Denver,event,554636
+377,Underground Music Showcase,26/07/2009,28/07/2009,Denver,event,554636
+378,Colorado Dragon Boat Festival ,27/07/2009,28/07/2009,Denver,event,554636
+379,Colorado Classic,27/08/2009,30/08/2009,Denver,event,554636
+380,CRUSH Walls,07/09/2009,13/09/2009,Denver,event,554636
+381,A Taste of Colorado,05/09/2009,07/09/2009,Denver,event,554636
+382,Denver Food + Wine Festival,09/09/2009,13/09/2009,Denver,event,554636
+383,Slow Food Nations,11/09/2009,13/09/2009,Denver,event,554636
+384,Annual Denver Beer Week,18/09/2009,26/09/2009,Denver,event,554636
+385,Great American Beer Festival,24/09/2009,26/09/2009,Denver,event,554636
+386,Denver Arts Week ,06/11/2009,14/11/2009,Denver,event,554636
+387,Mile High Holidays,20/11/2009,31/12/2009,Denver,event,554636
+388,New year's Day,01/01/2008,01/01/2008,Domestic,holiday,
+389,Martin Luther King's Day,20/01/2008,20/01/2008,Domestic,holiday,
+390,Presidents' Day,17/02/2008,17/02/2008,Domestic,holiday,
+391,Memorial Day,25/05/2008,25/05/2008,Domestic,holiday,
+392,Independence Day observed,03/07/2008,03/07/2008,Domestic,holiday,
+393,Independence Day,04/07/2008,04/07/2008,Domestic,holiday,
+394,Labor Day,07/09/2008,07/09/2008,Domestic,holiday,
+395,Columbus Day,12/10/2008,12/10/2008,Domestic,holiday,
+396,Veterans Day,11/11/2008,11/11/2008,Domestic,holiday,
+397,Thanksgiving,26/11/2008,26/11/2008,Domestic,holiday,
+398,Christmas Day,25/12/2008,25/12/2008,Domestic,holiday,
+399,Winter Park Express Ski Train,10/01/2008,29/03/2008,Denver,event,554636
+400,Denver Restaurant Week ,21/02/2008,01/03/2008,Denver,event,554636
+401,Denver FamilyFest ,22/02/2008,,Denver,event,554636
+402,St. Patrick?�?s Day Parade,14/03/2008,,Denver,event,554636
+403,Denver March Powwow ,20/03/2008,22/03/2008,Denver,event,554636
+404,Denver Home Show,20/03/2008,22/03/2008,Denver,event,554636
+405,Colorado Rockies Home Opener,03/04/2008,,Denver,event,554636
+406,Monster Energy Supercross,04/04/2008,,Denver,event,554636
+407,Collaboration Fest,04/04/2008,,Denver,event,554636
+408,Rodeo All-Star Weekend,17/04/2008,18/04/2008,Denver,event,554636
+409,Cinco de Mayo Festival,02/05/2008,03/05/2008,Denver,event,554636
+410,Five Points Jazz Festival,16/05/2008,,Denver,event,554636
+411,Colfax Marathon ,16/05/2008,17/05/2008,Denver,event,554636
+412,Denver Day of Rock,23/05/2008,,Denver,event,554636
+413,Denver Chalk Art Festival ,05/06/2008,06/06/2008,Denver,event,554636
+414,Golden Oldies Rugby Festival,08/06/2008,,Denver,event,554636
+415,Denver PrideFest,20/06/2008,21/06/2008,Denver,event,554636
+416,Juneteenth Music Festival,20/06/2008,21/06/2008,Denver,event,554636
+417,Cherry Creek Arts Festival,03/07/2008,05/07/2008,Denver,event,554636
+418,Denver Pop Culture Con,03/07/2008,05/07/2008,Denver,event,554636
+419,Rocky Mountain Regional Gay Rodeo,03/07/2008,05/07/2008,Denver,event,554636
+420,Underground Music Showcase,26/07/2008,28/07/2008,Denver,event,554636
+421,Colorado Dragon Boat Festival ,27/07/2008,28/07/2008,Denver,event,554636
+422,Colorado Classic,27/08/2008,30/08/2008,Denver,event,554636
+423,CRUSH Walls,07/09/2008,13/09/2008,Denver,event,554636
+424,A Taste of Colorado,05/09/2008,07/09/2008,Denver,event,554636
+425,Denver Food + Wine Festival,09/09/2008,13/09/2008,Denver,event,554636
+426,Slow Food Nations,11/09/2008,13/09/2008,Denver,event,554636
+427,Annual Denver Beer Week,18/09/2008,26/09/2008,Denver,event,554636
+428,Great American Beer Festival,24/09/2008,26/09/2008,Denver,event,554636
+429,Denver Arts Week ,06/11/2008,14/11/2008,Denver,event,554636
+430,Mile High Holidays,20/11/2008,31/12/2008,Denver,event,554636
+431,New year's Day,01/01/2007,01/01/2007,Domestic,holiday,
+432,Martin Luther King's Day,20/01/2007,20/01/2007,Domestic,holiday,
+433,Presidents' Day,17/02/2007,17/02/2007,Domestic,holiday,
+434,Memorial Day,25/05/2007,25/05/2007,Domestic,holiday,
+435,Independence Day observed,03/07/2007,03/07/2007,Domestic,holiday,
+436,Independence Day,04/07/2007,04/07/2007,Domestic,holiday,
+437,Labor Day,07/09/2007,07/09/2007,Domestic,holiday,
+438,Columbus Day,12/10/2007,12/10/2007,Domestic,holiday,
+439,Veterans Day,11/11/2007,11/11/2007,Domestic,holiday,
+440,Thanksgiving,26/11/2007,26/11/2007,Domestic,holiday,
+441,Christmas Day,25/12/2007,25/12/2007,Domestic,holiday,
+442,Winter Park Express Ski Train,10/01/2007,29/03/2007,Denver,event,554636
+443,Denver Restaurant Week ,21/02/2007,01/03/2007,Denver,event,554636
+444,Denver FamilyFest ,22/02/2007,,Denver,event,554636
+445,St. Patrick?�?s Day Parade,14/03/2007,,Denver,event,554636
+446,Denver March Powwow ,20/03/2007,22/03/2007,Denver,event,554636
+447,Denver Home Show,20/03/2007,22/03/2007,Denver,event,554636
+448,Colorado Rockies Home Opener,03/04/2007,,Denver,event,554636
+449,Monster Energy Supercross,04/04/2007,,Denver,event,554636
+450,Collaboration Fest,04/04/2007,,Denver,event,554636
+451,Rodeo All-Star Weekend,17/04/2007,18/04/2007,Denver,event,554636
+452,Cinco de Mayo Festival,02/05/2007,03/05/2007,Denver,event,554636
+453,Five Points Jazz Festival,16/05/2007,,Denver,event,554636
+454,Colfax Marathon ,16/05/2007,17/05/2007,Denver,event,554636
+455,Denver Day of Rock,23/05/2007,,Denver,event,554636
+456,Denver Chalk Art Festival ,05/06/2007,06/06/2007,Denver,event,554636
+457,Golden Oldies Rugby Festival,08/06/2007,,Denver,event,554636
+458,Denver PrideFest,20/06/2007,21/06/2007,Denver,event,554636
+459,Juneteenth Music Festival,20/06/2007,21/06/2007,Denver,event,554636
+460,Cherry Creek Arts Festival,03/07/2007,05/07/2007,Denver,event,554636
+461,Denver Pop Culture Con,03/07/2007,05/07/2007,Denver,event,554636
+462,Rocky Mountain Regional Gay Rodeo,03/07/2007,05/07/2007,Denver,event,554636
+463,Underground Music Showcase,26/07/2007,28/07/2007,Denver,event,554636
+464,Colorado Dragon Boat Festival ,27/07/2007,28/07/2007,Denver,event,554636
+465,Colorado Classic,27/08/2007,30/08/2007,Denver,event,554636
+466,CRUSH Walls,07/09/2007,13/09/2007,Denver,event,554636
+467,A Taste of Colorado,05/09/2007,07/09/2007,Denver,event,554636
+468,Denver Food + Wine Festival,09/09/2007,13/09/2007,Denver,event,554636
+469,Slow Food Nations,11/09/2007,13/09/2007,Denver,event,554636
+470,Annual Denver Beer Week,18/09/2007,26/09/2007,Denver,event,554636
+471,Great American Beer Festival,24/09/2007,26/09/2007,Denver,event,554636
+472,Denver Arts Week ,06/11/2007,14/11/2007,Denver,event,554636
+473,Mile High Holidays,20/11/2007,31/12/2007,Denver,event,554636
+474,New year's Day,01/01/2006,01/01/2006,Domestic,holiday,
+475,Martin Luther King's Day,20/01/2006,20/01/2006,Domestic,holiday,
+476,Presidents' Day,17/02/2006,17/02/2006,Domestic,holiday,
+477,Memorial Day,25/05/2006,25/05/2006,Domestic,holiday,
+478,Independence Day observed,03/07/2006,03/07/2006,Domestic,holiday,
+479,Independence Day,04/07/2006,04/07/2006,Domestic,holiday,
+480,Labor Day,07/09/2006,07/09/2006,Domestic,holiday,
+481,Columbus Day,12/10/2006,12/10/2006,Domestic,holiday,
+482,Veterans Day,11/11/2006,11/11/2006,Domestic,holiday,
+483,Thanksgiving,26/11/2006,26/11/2006,Domestic,holiday,
+484,Christmas Day,25/12/2006,25/12/2006,Domestic,holiday,
+485,Winter Park Express Ski Train,10/01/2006,29/03/2006,Denver,event,554636
+486,Denver Restaurant Week ,21/02/2006,01/03/2006,Denver,event,554636
+487,Denver FamilyFest ,22/02/2006,,Denver,event,554636
+488,St. Patrick?�?s Day Parade,14/03/2006,,Denver,event,554636
+489,Denver March Powwow ,20/03/2006,22/03/2006,Denver,event,554636
+490,Denver Home Show,20/03/2006,22/03/2006,Denver,event,554636
+491,Colorado Rockies Home Opener,03/04/2006,,Denver,event,554636
+492,Monster Energy Supercross,04/04/2006,,Denver,event,554636
+493,Collaboration Fest,04/04/2006,,Denver,event,554636
+494,Rodeo All-Star Weekend,17/04/2006,18/04/2006,Denver,event,554636
+495,Cinco de Mayo Festival,02/05/2006,03/05/2006,Denver,event,554636
+496,Five Points Jazz Festival,16/05/2006,,Denver,event,554636
+497,Colfax Marathon ,16/05/2006,17/05/2006,Denver,event,554636
+498,Denver Day of Rock,23/05/2006,,Denver,event,554636
+499,Denver Chalk Art Festival ,05/06/2006,06/06/2006,Denver,event,554636
+500,Golden Oldies Rugby Festival,08/06/2006,,Denver,event,554636
+501,Denver PrideFest,20/06/2006,21/06/2006,Denver,event,554636
+502,Juneteenth Music Festival,20/06/2006,21/06/2006,Denver,event,554636
+503,Cherry Creek Arts Festival,03/07/2006,05/07/2006,Denver,event,554636
+504,Denver Pop Culture Con,03/07/2006,05/07/2006,Denver,event,554636
+505,Rocky Mountain Regional Gay Rodeo,03/07/2006,05/07/2006,Denver,event,554636
+506,Underground Music Showcase,26/07/2006,28/07/2006,Denver,event,554636
+507,Colorado Dragon Boat Festival ,27/07/2006,28/07/2006,Denver,event,554636
+508,Colorado Classic,27/08/2006,30/08/2006,Denver,event,554636
+509,CRUSH Walls,07/09/2006,13/09/2006,Denver,event,554636
+510,A Taste of Colorado,05/09/2006,07/09/2006,Denver,event,554636
+511,Denver Food + Wine Festival,09/09/2006,13/09/2006,Denver,event,554636
+512,Slow Food Nations,11/09/2006,13/09/2006,Denver,event,554636
+513,Annual Denver Beer Week,18/09/2006,26/09/2006,Denver,event,554636
+514,Great American Beer Festival,24/09/2006,26/09/2006,Denver,event,554636
+515,Denver Arts Week ,06/11/2006,14/11/2006,Denver,event,554636
+516,Mile High Holidays,20/11/2006,31/12/2006,Denver,event,554636
+517,New year's Day,01/01/2005,01/01/2005,Domestic,holiday,
+518,Martin Luther King's Day,20/01/2005,20/01/2005,Domestic,holiday,
+519,Presidents' Day,17/02/2005,17/02/2005,Domestic,holiday,
+520,Memorial Day,25/05/2005,25/05/2005,Domestic,holiday,
+521,Independence Day observed,03/07/2005,03/07/2005,Domestic,holiday,
+522,Independence Day,04/07/2005,04/07/2005,Domestic,holiday,
+523,Labor Day,07/09/2005,07/09/2005,Domestic,holiday,
+524,Columbus Day,12/10/2005,12/10/2005,Domestic,holiday,
+525,Veterans Day,11/11/2005,11/11/2005,Domestic,holiday,
+526,Thanksgiving,26/11/2005,26/11/2005,Domestic,holiday,
+527,Christmas Day,25/12/2005,25/12/2005,Domestic,holiday,
+528,Winter Park Express Ski Train,10/01/2005,29/03/2005,Denver,event,554636
+529,Denver Restaurant Week ,21/02/2005,01/03/2005,Denver,event,554636
+530,Denver FamilyFest ,22/02/2005,,Denver,event,554636
+531,St. Patrick?�?s Day Parade,14/03/2005,,Denver,event,554636
+532,Denver March Powwow ,20/03/2005,22/03/2005,Denver,event,554636
+533,Denver Home Show,20/03/2005,22/03/2005,Denver,event,554636
+534,Colorado Rockies Home Opener,03/04/2005,,Denver,event,554636
+535,Monster Energy Supercross,04/04/2005,,Denver,event,554636
+536,Collaboration Fest,04/04/2005,,Denver,event,554636
+537,Rodeo All-Star Weekend,17/04/2005,18/04/2005,Denver,event,554636
+538,Cinco de Mayo Festival,02/05/2005,03/05/2005,Denver,event,554636
+539,Five Points Jazz Festival,16/05/2005,,Denver,event,554636
+540,Colfax Marathon ,16/05/2005,17/05/2005,Denver,event,554636
+541,Denver Day of Rock,23/05/2005,,Denver,event,554636
+542,Denver Chalk Art Festival ,05/06/2005,06/06/2005,Denver,event,554636
+543,Golden Oldies Rugby Festival,08/06/2005,,Denver,event,554636
+544,Denver PrideFest,20/06/2005,21/06/2005,Denver,event,554636
+545,Juneteenth Music Festival,20/06/2005,21/06/2005,Denver,event,554636
+546,Cherry Creek Arts Festival,03/07/2005,05/07/2005,Denver,event,554636
+547,Denver Pop Culture Con,03/07/2005,05/07/2005,Denver,event,554636
+548,Rocky Mountain Regional Gay Rodeo,03/07/2005,05/07/2005,Denver,event,554636
+549,Underground Music Showcase,26/07/2005,28/07/2005,Denver,event,554636
+550,Colorado Dragon Boat Festival ,27/07/2005,28/07/2005,Denver,event,554636
+551,Colorado Classic,27/08/2005,30/08/2005,Denver,event,554636
+552,CRUSH Walls,07/09/2005,13/09/2005,Denver,event,554636
+553,A Taste of Colorado,05/09/2005,07/09/2005,Denver,event,554636
+554,Denver Food + Wine Festival,09/09/2005,13/09/2005,Denver,event,554636
+555,Slow Food Nations,11/09/2005,13/09/2005,Denver,event,554636
+556,Annual Denver Beer Week,18/09/2005,26/09/2005,Denver,event,554636
+557,Great American Beer Festival,24/09/2005,26/09/2005,Denver,event,554636
+558,Denver Arts Week ,06/11/2005,14/11/2005,Denver,event,554636
+559,Mile High Holidays,20/11/2005,31/12/2005,Denver,event,554636
+560,New year's Day,01/01/2004,01/01/2004,Domestic,holiday,
+561,Martin Luther King's Day,20/01/2004,20/01/2004,Domestic,holiday,
+562,Presidents' Day,17/02/2004,17/02/2004,Domestic,holiday,
+563,Memorial Day,25/05/2004,25/05/2004,Domestic,holiday,
+564,Independence Day observed,03/07/2004,03/07/2004,Domestic,holiday,
+565,Independence Day,04/07/2004,04/07/2004,Domestic,holiday,
+566,Labor Day,07/09/2004,07/09/2004,Domestic,holiday,
+567,Columbus Day,12/10/2004,12/10/2004,Domestic,holiday,
+568,Veterans Day,11/11/2004,11/11/2004,Domestic,holiday,
+569,Thanksgiving,26/11/2004,26/11/2004,Domestic,holiday,
+570,Christmas Day,25/12/2004,25/12/2004,Domestic,holiday,
+571,Winter Park Express Ski Train,10/01/2004,29/03/2004,Denver,event,554636
+572,Denver Restaurant Week ,21/02/2004,01/03/2004,Denver,event,554636
+573,Denver FamilyFest ,22/02/2004,,Denver,event,554636
+574,St. Patrick?�?s Day Parade,14/03/2004,,Denver,event,554636
+575,Denver March Powwow ,20/03/2004,22/03/2004,Denver,event,554636
+576,Denver Home Show,20/03/2004,22/03/2004,Denver,event,554636
+577,Colorado Rockies Home Opener,03/04/2004,,Denver,event,554636
+578,Monster Energy Supercross,04/04/2004,,Denver,event,554636
+579,Collaboration Fest,04/04/2004,,Denver,event,554636
+580,Rodeo All-Star Weekend,17/04/2004,18/04/2004,Denver,event,554636
+581,Cinco de Mayo Festival,02/05/2004,03/05/2004,Denver,event,554636
+582,Five Points Jazz Festival,16/05/2004,,Denver,event,554636
+583,Colfax Marathon ,16/05/2004,17/05/2004,Denver,event,554636
+584,Denver Day of Rock,23/05/2004,,Denver,event,554636
+585,Denver Chalk Art Festival ,05/06/2004,06/06/2004,Denver,event,554636
+586,Golden Oldies Rugby Festival,08/06/2004,,Denver,event,554636
+587,Denver PrideFest,20/06/2004,21/06/2004,Denver,event,554636
+588,Juneteenth Music Festival,20/06/2004,21/06/2004,Denver,event,554636
+589,Cherry Creek Arts Festival,03/07/2004,05/07/2004,Denver,event,554636
+590,Denver Pop Culture Con,03/07/2004,05/07/2004,Denver,event,554636
+591,Rocky Mountain Regional Gay Rodeo,03/07/2004,05/07/2004,Denver,event,554636
+592,Underground Music Showcase,26/07/2004,28/07/2004,Denver,event,554636
+593,Colorado Dragon Boat Festival ,27/07/2004,28/07/2004,Denver,event,554636
+594,Colorado Classic,27/08/2004,30/08/2004,Denver,event,554636
+595,CRUSH Walls,07/09/2004,13/09/2004,Denver,event,554636
+596,A Taste of Colorado,05/09/2004,07/09/2004,Denver,event,554636
+597,Denver Food + Wine Festival,09/09/2004,13/09/2004,Denver,event,554636
+598,Slow Food Nations,11/09/2004,13/09/2004,Denver,event,554636
+599,Annual Denver Beer Week,18/09/2004,26/09/2004,Denver,event,554636
+600,Great American Beer Festival,24/09/2004,26/09/2004,Denver,event,554636
+601,Denver Arts Week ,06/11/2004,14/11/2004,Denver,event,554636
+602,Mile High Holidays,20/11/2004,31/12/2004,Denver,event,554636
+603,New year's Day,01/01/2003,01/01/2003,Domestic,holiday,
+604,Martin Luther King's Day,20/01/2003,20/01/2003,Domestic,holiday,
+605,Presidents' Day,17/02/2003,17/02/2003,Domestic,holiday,
+606,Memorial Day,25/05/2003,25/05/2003,Domestic,holiday,
+607,Independence Day observed,03/07/2003,03/07/2003,Domestic,holiday,
+608,Independence Day,04/07/2003,04/07/2003,Domestic,holiday,
+609,Labor Day,07/09/2003,07/09/2003,Domestic,holiday,
+610,Columbus Day,12/10/2003,12/10/2003,Domestic,holiday,
+611,Veterans Day,11/11/2003,11/11/2003,Domestic,holiday,
+612,Thanksgiving,26/11/2003,26/11/2003,Domestic,holiday,
+613,Christmas Day,25/12/2003,25/12/2003,Domestic,holiday,
+614,Winter Park Express Ski Train,10/01/2003,29/03/2003,Denver,event,554636
+615,Denver Restaurant Week ,21/02/2003,01/03/2003,Denver,event,554636
+616,Denver FamilyFest ,22/02/2003,,Denver,event,554636
+617,St. Patrick?�?s Day Parade,14/03/2003,,Denver,event,554636
+618,Denver March Powwow ,20/03/2003,22/03/2003,Denver,event,554636
+619,Denver Home Show,20/03/2003,22/03/2003,Denver,event,554636
+620,Colorado Rockies Home Opener,03/04/2003,,Denver,event,554636
+621,Monster Energy Supercross,04/04/2003,,Denver,event,554636
+622,Collaboration Fest,04/04/2003,,Denver,event,554636
+623,Rodeo All-Star Weekend,17/04/2003,18/04/2003,Denver,event,554636
+624,Cinco de Mayo Festival,02/05/2003,03/05/2003,Denver,event,554636
+625,Five Points Jazz Festival,16/05/2003,,Denver,event,554636
+626,Colfax Marathon ,16/05/2003,17/05/2003,Denver,event,554636
+627,Denver Day of Rock,23/05/2003,,Denver,event,554636
+628,Denver Chalk Art Festival ,05/06/2003,06/06/2003,Denver,event,554636
+629,Golden Oldies Rugby Festival,08/06/2003,,Denver,event,554636
+630,Denver PrideFest,20/06/2003,21/06/2003,Denver,event,554636
+631,Juneteenth Music Festival,20/06/2003,21/06/2003,Denver,event,554636
+632,Cherry Creek Arts Festival,03/07/2003,05/07/2003,Denver,event,554636
+633,Denver Pop Culture Con,03/07/2003,05/07/2003,Denver,event,554636
+634,Rocky Mountain Regional Gay Rodeo,03/07/2003,05/07/2003,Denver,event,554636
+635,Underground Music Showcase,26/07/2003,28/07/2003,Denver,event,554636
+636,Colorado Dragon Boat Festival ,27/07/2003,28/07/2003,Denver,event,554636
+637,Colorado Classic,27/08/2003,30/08/2003,Denver,event,554636
+638,CRUSH Walls,07/09/2003,13/09/2003,Denver,event,554636
+639,A Taste of Colorado,05/09/2003,07/09/2003,Denver,event,554636
+640,Denver Food + Wine Festival,09/09/2003,13/09/2003,Denver,event,554636
+641,Slow Food Nations,11/09/2003,13/09/2003,Denver,event,554636
+642,Annual Denver Beer Week,18/09/2003,26/09/2003,Denver,event,554636
+643,Great American Beer Festival,24/09/2003,26/09/2003,Denver,event,554636
+644,Denver Arts Week ,06/11/2003,14/11/2003,Denver,event,554636
+645,Mile High Holidays,20/11/2003,31/12/2003,Denver,event,554636

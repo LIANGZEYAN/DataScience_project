@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20201.20.0219.0753                               -->
+<workbook original-version='18.1' source-build='2020.1.0 (20201.20.0219.0753)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='自定义 SQL 查询 (dlian052)' inline='true' name='federated.0l2k2ug0sqz4pd19eeicr1it6rha' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='web0.eecs.uottawa.ca' name='postgres.0ethsse16c6qto137icbq15j74qh'>
+            <connection authentication='username-password' class='postgres' dbname='dlian052' odbc-native-protocol='' one-time-sql='' port='15432' server='web0.eecs.uottawa.ca' sslmode='require' username='dlian052' />
+          </named-connection>
+        </named-connections>
+        <relation connection='postgres.0ethsse16c6qto137icbq15j74qh' name='自定义 SQL 查询' type='text'>SELECT neighborhood,EXTRACT(YEAR FROM to_date(D.crime_year,&apos;mm/dd/yyyy&apos;)) AS years,EXTRACT(MONTH FROM to_date(D.crime_year,&apos;mm/dd/yyyy&apos;)) AS MONTHS,COUNT(neighborhood),ROUND(avg(COUNT(neighborhood)) over (PARTITION BY neighborhood,EXTRACT(YEAR FROM to_date(D.crime_year,&apos;mm/dd/yyyy&apos;))),2)&#13;&#10;FROM &quot;CSI4142&quot;.&quot;Location&quot; as D &#13;&#10;GROUP BY neighborhood,years,MONTHS</relation>
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>neighborhood</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[neighborhood]</local-name>
+            <parent-name>[自定义 SQL 查询]</parent-name>
+            <remote-alias>neighborhood</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>100</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>years</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[years]</local-name>
+            <parent-name>[自定义 SQL 查询]</parent-name>
+            <remote-alias>years</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>8</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_FLOAT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>months</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[months]</local-name>
+            <parent-name>[自定义 SQL 查询]</parent-name>
+            <remote-alias>months</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>8</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_FLOAT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>count</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[count]</local-name>
+            <parent-name>[自定义 SQL 查询]</parent-name>
+            <remote-alias>count</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>20</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>round</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[round]</local-name>
+            <parent-name>[自定义 SQL 查询]</parent-name>
+            <remote-alias>round</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>30</precision>
+            <scale>6</scale>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_NUMERIC&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_NUMERIC&quot;</attribute>
+            </attributes>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column datatype='integer' name='[count]' role='measure' type='quantitative' />
+      <column aggregation='Sum' datatype='real' name='[months]' role='dimension' type='ordinal' />
+      <column datatype='real' name='[round]' role='measure' type='quantitative' />
+      <column aggregation='Sum' datatype='real' name='[years]' role='dimension' type='ordinal' />
+      <column-instance column='[count]' derivation='Attribute' name='[attr:count:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[round]' derivation='Attribute' name='[attr:round:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[count]' derivation='Sum' name='[sum:count:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[round]' derivation='Sum' name='[sum:round:qk]' pivot='key' type='quantitative' />
+      <drill-paths>
+        <drill-path name='neighborhood, years'>
+          <field>[neighborhood]</field>
+          <field>[years]</field>
+          <field>[months]</field>
+        </drill-path>
+      </drill-paths>
+      <layout dim-ordering='alphabetic' dim-percentage='0.463542' measure-ordering='alphabetic' measure-percentage='0.536458' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[attr:count:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[sum:count:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[attr:round:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[sum:round:qk]&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;中国&quot;' />
+      </semantic-values>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='工作表 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='自定义 SQL 查询 (dlian052)' name='federated.0l2k2ug0sqz4pd19eeicr1it6rha' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0l2k2ug0sqz4pd19eeicr1it6rha'>
+            <column-instance column='[count]' derivation='Attribute' name='[attr:count:qk]' pivot='key' type='quantitative' />
+            <column datatype='integer' name='[count]' role='measure' type='quantitative' />
+            <column aggregation='Sum' datatype='real' name='[months]' role='dimension' type='ordinal' />
+            <column datatype='string' name='[neighborhood]' role='dimension' type='nominal' />
+            <column-instance column='[months]' derivation='None' name='[none:months:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[neighborhood]' derivation='None' name='[none:neighborhood:nk]' pivot='key' type='nominal' />
+            <column-instance column='[years]' derivation='None' name='[none:years:ok]' pivot='key' type='ordinal' />
+            <column datatype='real' name='[round]' role='measure' type='quantitative' />
+            <column-instance column='[count]' derivation='Sum' name='[sum:count:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[round]' derivation='Sum' name='[sum:round:qk]' pivot='key' type='quantitative' />
+            <column aggregation='Sum' datatype='real' name='[years]' role='dimension' type='ordinal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[sum:count:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[sum:round:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[:Measure Names]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Shape' />
+            <encodings>
+              <color column='[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[none:years:ok]' />
+              <lod column='[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[attr:count:qk]' />
+              <shape column='[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[:Measure Names]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='0.60000002384185791' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.0l2k2ug0sqz4pd19eeicr1it6rha].[none:neighborhood:nk] / ([federated.0l2k2ug0sqz4pd19eeicr1it6rha].[none:years:ok] / [federated.0l2k2ug0sqz4pd19eeicr1it6rha].[none:months:ok]))</rows>
+        <cols>[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[Multiple Values]</cols>
+      </table>
+      <simple-id uuid='{9D673ABB-2FA7-479F-A5D2-D572B2B7FF3A}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='工作表 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[none:years:ok]' type='color' />
+            <card pane-specification-id='0' param='[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[:Measure Names]' type='shape' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[:Measure Names]</field>
+            <field>[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[none:neighborhood:nk]</field>
+            <field>[federated.0l2k2ug0sqz4pd19eeicr1it6rha].[none:years:ok]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{250C2611-8F5E-4533-B33A-4BAF39C87583}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='工作表 1' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAAPqUlEQVR4nO3da3PbVnoH8D9IECDBuyRSsi1bjp1atuOtt9nddKaZppukr3ams53pfont
+      19r2Rdvt7Gw705lkptPL1N5NdtMkXdmmLFmiLOtCiRRJ3AECOH2R0GFiyxbAC0id5/fSAnCe
+      SHlwzp8gAIExxkAIpxJxF0BInKgBCNeoAQjXqAEI16gBCNeoAQjXRABgjEHX9bhrmVlBEMBx
+      HGQymVD7+b6PZDI59n3O61iMMTDGkEiEO48PjiW87DqArmkIXBeZ+XmkwhRkttAW5jEX7v+D
+      M7MNFdvbdaTzZZi2g8VSCpCqaO5vorL8BuaLuVDHcy0dRx0TyxeqQ9Xl+z5s20Y2mw21n+d5
+      EEVx7PvM4liMMXz2+AB5RcLq5YWX7hMEARhjoRrn/tou2pqJD9++jrQs4ltVqs19fPw/X+CP
+      ri4iK2fReVKHMpeD3laRzZfQPdxCsVSGmV7CxZyI5vEe0pKM2voG3njrLiopB7XmIf78R7ch
+      CkKoX8BZSJIEpTAHCEBBkVFeKKLZ9JEUk7BMEwjZAFImh2RXG3mdZHiW6+Hxbgtuzz+1AaJ4
+      tNNERkrCsN0XGyApZXD7xnVUK0U4roCLy5dgAbi8eAkAQzPFoGTSUBauIJ9iOD7aQ2m+itVb
+      CRQri1jKAsj14PtAhBPHa2mqCss2MV8qQbN6OD5sQXNSSCWTkNPp0MezDRX7+wcozVWRkcJP
+      9WR8MpKIG5fnkVfkkR731soC2pqJbFoCcMoSiIRDS6B4xoqyBPruWPQpEOEa1w1gGypqtXW4
+      ftyVzDbVcPDx757A6Xlxl/Ja99d28dHvnsB2vqqV6waQlRwKioSAFoFD+c8v6shlJPy+dhB3
+      Ka/1aKeJru7AsF0AnDdAp7GHltGDgCDuUmbaj79/Fbrl4oc3L8RdymvdWllAMSdTCB4lCsHx
+      jEUhmJAhcd0Alt5FrfYYPVoBcYNC8IC0osAzdXi0COQGheABpq5DlEV4Hk0BvKAQPAYUguMZ
+      i0IwIUPivAEY6vV63EWQCaIQPMDonqDZNeIug0wQheABfhAgcEyYzvR/h4WMBoXgMaAQHM9Y
+      FIIJGRLXDeBZXTyobYIuA/CDQvAAS9PhswC0COQHheABopKDFLhwfJoCeEEheAwoBMczFoVg
+      QobEdQP4ron19SegW4LPj+2DNu6v7eK0hQ2F4AEHe/sI4KFH34c+N/77y6c4aGloa/ZLf04h
+      eMDc/DyY34PbozngvHjv7hVcnM+jnH/5g9IoBI8BheB4xqIQTMiQuG4AQ23j4dofYNBNweea
+      5wf498+20OyaL4TgMTzCdnZkC2XkixqUFNfngXOvttOEIAj4j8+3oRrut54OzfVfngU9pNM5
+      jP5B7mSa3FxZAGMM7//JGxSCx4FCcDxjUQgmZEhcN4Ctd/GIHozFFboSPMDUNTimDoeug3GD
+      rgQPEJIiZDmFIKApgBcUgseAQnA8Y1EIJmRIXDeApXWwvrFFr8fgCIXgAZZlwdcbONapBXhB
+      IXhANpdDkCpiLsv1r4ErFILHgEJwPGNRCCZkSFw3gGvpeHZwhO7JMbZ2nsVdDpkACsEDpEwO
+      ScGHZjhIJWglyAMKwQNsQ8X+/gH8wINmuXGXQyaAQvAYUAiOZywKwYQMiesG6IdgrdPC8Uk3
+      7nLICNCDsULoh+B8sQTPdeIuh4xA2AdjcX1TfD8EC4zh4KiNxaUq32eEc+C9u1dw2NJf+WCs
+      tmZSCB4lCsHxjEUhmJAhcb0Eci0dRx0TOQk46lq4cW0l7pLImN1f20VbM/HB29ewtn3E9wzw
+      PAQXCpAiTPVk9vRD8HHHxOZem+8ZoB+C1U4XgpSJuxwyAf0QXCkpePPSHIXgUaAQHM9YowjB
+      MzEDMMag63rcZZwqCAI4jhP66RK+74f+40XZ57yOxRgDYwyJRLiV/OBYMzUD2IaK7e060vky
+      TNvBYikFpCroHNcxf+EqygUl1PH6IXj5QnWoumgGiGcs7j4GlSQJSmEOiYSAgiKjvFCG53hQ
+      NRWqqoY/3tchmPBrphpAU1VYtglFltALEjg+bEGzVFQrVWQy4UNsPwRbLjUBr2ZqCTStaAkU
+      z1jcLYEIGTWuG8A2VNRq66AVED8CswX/4a/AvK++/ct1A8hKDgVFQkCLQG54j/4VTFTg7dwD
+      wHkDdBp7aBk9CPRwRG6It/4KgmdCXHkXAIXgkaAQHM9YFIIJGRLXDWDpXdToFUlTxT9eR2/j
+      Y2BCCxOuGyCtKPBMHR4tAqeGV/s3BJ1nCIzjiYzHdQOYug5RFuF5NAVMC/HmT5AoXUYiW5nI
+      eBSCR4BCcDxjUQgmZEicNwBDvV6PuwgSI64bwOieoNk14i6DxIjrBvCDAIFjwvz6MXmEPzNx
+      S+S4FMoVvPPOZD5tINOJ6xmAEK4bwLO6eFDbBF0G4BfXDWBpOnwWTOqqO5lCXDeAqOQgBS4c
+      n6YAXnEdgjO5Im6+VYy7DBIjrmcAQrhuAN81sb7+BHRL8DnEGLyt/4J/8H+v3IzrJdDB3j4C
+      +Oh5DElRiLscMkLM1eE31sA8G8kLf3zqdlw3wNz8PNRne3B7PtL0ePRzRZBySC7egaDMvXI7
+      rv/qSqGM27fLcZdBxkEQIF77i9duxnUGIITrBjDUNh6u/QEG3RQ8Neie4AnKFsrIF4tQUlz/
+      GqYK3RM8QSzoIZ3OgT7/mR6TvieY6xAsJFKoVF79KQGZrGRlFcnK6sTG43oGIITrBrD1Lh7R
+      g7G4xnUDmLoGx9Th0HchuMV1AwhJEbKcCv12R3J+cB2Cy5UllCtLcZdBYsT1DEAI1w1gaR2s
+      b2zR6zE4xncDWBZ8vYFjnVqAV1w3QDaXQ5AqYi7L9a+Ba1yHYFnJ486d23GXQWJEpz7CNa5n
+      ANfScdQxkZcFtDQH11aW4y6JTBjXM4CUySEp+NAMB6kEPR2LR1w3gG2o2N8/gB940Cw37nJI
+      DLheAqWzBfzg7bfjLoPEiOsZgBCuG8C1dDw7OILWaeH4pBt3OQR0T/BE9UNwvliC5zpxl0Mw
+      +XuCuc4A/RAsMIaDozYWl6p8nxGmgHjzJwg6T+k9wbOE3hMcz1j0nmBChsR1A/RDcKd1hMdb
+      O3GXQ8aE+T30HvwKgdZ44WdcN8DzEFwoQKKH455b/v4XYEICvYe/fuFnXDdAPwRvPqnD9ehd
+      wedV8uL3IbAAqds/feFnFIJHgEJwPGONIgTPxLzPGIOu63GXcaogCOA4TuinS/i+H/qPF2Wf
+      8zoWYwyMMSQS4RYyg2PN1AxgGyq2t+tI58swbQeLpRSQWkC3uQtIOVy/Gu7rzP2vQy9fqA5V
+      F80AkxvL3dmBd9hA5p0fPW+AZDIJZ2MD7tYW0nfvIrX06id9zOzHoJIkQSnMIZEQUFBklBfK
+      8HtAuZRH9TX/0S893tchmMwO8959eIcN+J3Ot/7dfvgICSULt14PdbyZagBNVWHZJhRZQi9I
+      4PiwBdVoIynnkE+HP1P1Q7DlUhPMCuXdP4O4tIhkqfStf0/fvoXANCBdvRrqeDO1BJpWtASK
+      Zyy6EkzIkLhuANtQUautg1ZA08PdeQrzk08QdmHibGxA++gj9A4PQ+3HdQPISg4FRUJAi8Cp
+      Yd67B69xBL/dDrUfFyF41DqNPbSMHgR6OOLUUN59F+JiFclyuNfXUgiOEYXgeMaiEEzIkLhu
+      AEvvokavSJpKjDFYn38OZ2PzTNtTCI4grSgQfQcmdcDUYa4L67P/hXHv3pm2t9cewGschQ7B
+      M/FluHExdR1+UkJapDcFT5uELKP4s7+BkEqdafvcB+/DV1WI8/OhxuG6AbKFMlYL4T5tIJPz
+      3a87vHLbYhHJYjH0GFwvgQjhugEYY/jiyy/jLoOMgPGb36L9i7+D8/jxK7dzt7eh/fKf4X19
+      oY3rBjh8uoH9RgumQ7dDzjqv0UAim4V3cvLK7ZyNTQjpNHq7uwDoQhg6nQ5KIdaaL0MXwuIZ
+      a/BCmN/tPg/BCUU5dR/m+3APDyFdvAhBEPgOwQCG/p+fTIezhmAhmURycRGC8NUnf1wvgQjh
+      egZwug3U9jW8tfomRDoVzCxf19H5xd8DLEDuLz+EfOPGmfflugF8JkIMLNhegJxEHTCrvMPD
+      56HWOzmBHGJfrhtAEEWIogyZTv8zTbp+HfN/+3Mw34dYWQi1L9cNkMkVsboa/uohmS6CICC1
+      fCnSvnTqI1zjugFs9QQP15+AbgmefWe9EvxdXDdA86SDRGBBN+lK8Kw765Xg7+I6AyxdWMST
+      +jOk5fDPvyTTJff+j+nr0GGJcharq6txl0FGgL4OTUgEXDeAobbx+We/h0G3RE4N85NPof76
+      X8BCvrCEQnAE2XwJ85Uqsimufw1Txd3ehq/rCAwz1H4UgiNgzEOpHC40kfEq/PVPERgGksVC
+      qP0oBEcgJFIo5M920zWZjEQ6jUQ6HXo/CsGERMB1A3RbDTx8sAazF3clZFgUgiPwez30HBce
+      o0+BZh2F4Agy2RzkrAE5SQ/GmnUUgiPI5Eu4uUr3BJ8HFIIJiYDrBui0Gnj0sAaHIsDEmJ9+
+      im6EK72vQyE4gpSYgmeeoGtRB0yKu7WNQDcQGMZIj0shOAIxlYJUuoBKluvzwER9c6V3tLei
+      UgiOQFbyWH0zH3cZXIl6pfd1KAQTEgHXM4Br6Xh21EEuxdDUHNxefTPukkhExm9+C3dzE8qf
+      vhPqwVhczwBSJoeMnITrC8grYR6nRKYNheAIbENFs9lCtbIAw6ZnQ8wyCsERpLMFfO/OnbjL
+      ICNAIZiQCLhuANfSsbXzDFqnhb3DZtzlkFO49To6//CPr1zf05XgCPohOF8sIQG6GjytnI1N
+      JBQFvae7p25DITiCfggWGEOrrWNxqcr3GWFK5T78AF6jAXFp6fRtIoZg7t8RNgr0jrB4xhp8
+      R1jUseiER7jGdQP0Q3CndYS12kbc5XDLrdeh/tMvQ6/fB1EIjqAfgmVZxhy9LTI234Tcp5GP
+      QSE4gn4IdiwbPcb1uSBWuQ8/gLt/AOnSxejHOM8hmDEGXdfjLuNUQRDAcRxkMplQ+/m+HzrA
+      RdnnvI7FGANjDIlEuJPX4Fgz0QDTjj4FimesUXwKNFNLINtQ8fhRDWJhHo7tYHkxjR6roPHs
+      IQqVZVxfCfeitP7Xoa+tLI+pYjIuAWO4t7MNJSXhB8uXAQBfHuxjt9vG9xYvYKU8d6bjzNbC
+      lzEsXLmGrCSimM9gbmEBCQRIiilEmcj6IZjMnp7vo2Nb2Ne6z//txDSQEVPoOvaZjzNTMwAD
+      oHVOcOniRRh2D8eHHTgshWqlgtxcNfTx+iG4NFdFRqJGmCWyKOK9N65DFL45h/9w+QoM10Ep
+      ffYsRhlgBCgDxDPWKDLA/wOe882v+moZYgAAAABJRU5ErkJggg==
+    </thumbnail>
+  </thumbnails>
+</workbook>
